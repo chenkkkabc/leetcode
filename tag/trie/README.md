@@ -5,24 +5,24 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 字典树
+## [话题分类](../README.md) > 字典树
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1065 | [字符串的索引对](https://github.com/openset/leetcode/tree/master/problems/index-pairs-of-a-string) 🔒 | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1032 | [字符流](https://github.com/openset/leetcode/tree/master/problems/stream-of-characters) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]  | Hard |
-| 1023 | [驼峰式匹配](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 745 | [前缀和后缀搜索](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]  | Hard |
-| 720 | [词典中最长的单词](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
-| 692 | [前K个高频单词](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 677 | [键值映射](https://github.com/openset/leetcode/tree/master/problems/map-sum-pairs) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]  | Medium |
-| 676 | [实现一个魔法字典](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 648 | [单词替换](https://github.com/openset/leetcode/tree/master/problems/replace-words) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 642 | [设计搜索自动补全系统](https://github.com/openset/leetcode/tree/master/problems/design-search-autocomplete-system) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]  | Hard |
-| 472 | [连接词](https://github.com/openset/leetcode/tree/master/problems/concatenated-words) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 425 | [单词方块](https://github.com/openset/leetcode/tree/master/problems/word-squares) 🔒 | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 421 | [数组中两个数的最大异或值](https://github.com/openset/leetcode/tree/master/problems/maximum-xor-of-two-numbers-in-an-array) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]  | Medium |
-| 336 | [回文对](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 212 | [单词搜索 II](https://github.com/openset/leetcode/tree/master/problems/word-search-ii) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 211 | [添加与搜索单词 - 数据结构设计](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 208 | [实现 Trie (前缀树)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]  | Medium |
+| 1065 | [字符串的索引对](../../problems/index-pairs-of-a-string) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1032 | [字符流](../../problems/stream-of-characters) | [[字典树](../trie/README.md)]  | Hard |
+| 1023 | [驼峰式匹配](../../problems/camelcase-matching) | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 745 | [前缀和后缀搜索](../../problems/prefix-and-suffix-search) | [[字典树](../trie/README.md)]  | Hard |
+| 720 | [词典中最长的单词](../../problems/longest-word-in-dictionary) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 692 | [前K个高频单词](../../problems/top-k-frequent-words) | [[堆](../heap/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 677 | [键值映射](../../problems/map-sum-pairs) | [[字典树](../trie/README.md)]  | Medium |
+| 676 | [实现一个魔法字典](../../problems/implement-magic-dictionary) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 648 | [单词替换](../../problems/replace-words) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 642 | [设计搜索自动补全系统](../../problems/design-search-autocomplete-system) 🔒 | [[设计](../design/README.md)] [[字典树](../trie/README.md)]  | Hard |
+| 472 | [连接词](../../problems/concatenated-words) | [[深度优先搜索](../depth-first-search/README.md)] [[字典树](../trie/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 425 | [单词方块](../../problems/word-squares) 🔒 | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 421 | [数组中两个数的最大异或值](../../problems/maximum-xor-of-two-numbers-in-an-array) | [[位运算](../bit-manipulation/README.md)] [[字典树](../trie/README.md)]  | Medium |
+| 336 | [回文对](../../problems/palindrome-pairs) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 212 | [单词搜索 II](../../problems/word-search-ii) | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 211 | [添加与搜索单词 - 数据结构设计](../../problems/add-and-search-word-data-structure-design) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 208 | [实现 Trie (前缀树)](../../problems/implement-trie-prefix-tree) | [[设计](../design/README.md)] [[字典树](../trie/README.md)]  | Medium |

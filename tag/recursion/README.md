@@ -5,22 +5,22 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 递归
+## [话题分类](../README.md) > 递归
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1137 | [第 N 个泰波那契数](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number) | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
-| 938 | [二叉搜索树的范围和](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
-| 894 | [所有可能的满二叉树](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Medium |
-| 794 | [有效的井字游戏](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state) | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 783 | [二叉搜索树结点最小距离](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
-| 779 | [第K个语法符号](https://github.com/openset/leetcode/tree/master/problems/k-th-symbol-in-grammar) | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Medium |
-| 776 | [拆分二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/split-bst) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Medium |
-| 761 | [特殊的二进制序列](https://github.com/openset/leetcode/tree/master/problems/special-binary-string) | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 726 | [原子的数量](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
-| 698 | [划分为k个相等的子集](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets) | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 687 | [最长同值路径](https://github.com/openset/leetcode/tree/master/problems/longest-univalue-path) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
-| 625 | [最小因式分解](https://github.com/openset/leetcode/tree/master/problems/minimum-factorization) 🔒 | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 544 | [输出比赛匹配对](https://github.com/openset/leetcode/tree/master/problems/output-contest-matches) 🔒 | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 248 | [中心对称数 III](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii) 🔒 | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
-| 247 | [中心对称数 II](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii) 🔒 | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
+| 1137 | [第 N 个泰波那契数](../../problems/n-th-tribonacci-number) | [[递归](../recursion/README.md)]  | Easy |
+| 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 794 | [有效的井字游戏](../../problems/valid-tic-tac-toe-state) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
+| 783 | [二叉搜索树结点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 779 | [第K个语法符号](../../problems/k-th-symbol-in-grammar) | [[递归](../recursion/README.md)]  | Medium |
+| 776 | [拆分二叉搜索树](../../problems/split-bst) 🔒 | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 761 | [特殊的二进制序列](../../problems/special-binary-string) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
+| 698 | [划分为k个相等的子集](../../problems/partition-to-k-equal-sum-subsets) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 687 | [最长同值路径](../../problems/longest-univalue-path) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 625 | [最小因式分解](../../problems/minimum-factorization) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
+| 544 | [输出比赛匹配对](../../problems/output-contest-matches) 🔒 | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
+| 247 | [中心对称数 II](../../problems/strobogrammatic-number-ii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |

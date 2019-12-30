@@ -5,61 +5,61 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 栈
+## [话题分类](../README.md) > 栈
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1249 | [移除无效的括号](https://github.com/openset/leetcode/tree/master/problems/minimum-remove-to-make-valid-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1209 | [删除字符串中的所有相邻重复项 II](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 1190 | [反转每对括号间的子串](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 1130 | [叶值的最小代价生成树](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1124 | [表现良好的最长时间段](https://github.com/openset/leetcode/tree/master/problems/longest-well-performing-interval) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 1063 | [有效子数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-subarrays) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Hard |
-| 1047 | [删除字符串中的所有相邻重复项](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |
-| 1021 | [删除最外层的括号](https://github.com/openset/leetcode/tree/master/problems/remove-outermost-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |
-| 1019 | [链表中的下一个更大节点](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 1003 | [检查替换后的词是否有效](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 975 | [奇偶跳](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]  | Hard |
-| 946 | [验证栈序列](https://github.com/openset/leetcode/tree/master/problems/validate-stack-sequences) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 921 | [使括号有效的最少添加](https://github.com/openset/leetcode/tree/master/problems/minimum-add-to-make-parentheses-valid) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 907 | [子数组的最小值之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-subarray-minimums) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 901 | [股票价格跨度](https://github.com/openset/leetcode/tree/master/problems/online-stock-span) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 895 | [最大频率栈](https://github.com/openset/leetcode/tree/master/problems/maximum-frequency-stack) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
-| 880 | [索引处的解码字符串](https://github.com/openset/leetcode/tree/master/problems/decoded-string-at-index) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 856 | [括号的分数](https://github.com/openset/leetcode/tree/master/problems/score-of-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 844 | [比较含退格的字符串](https://github.com/openset/leetcode/tree/master/problems/backspace-string-compare) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
-| 772 | [基本计算器 III](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 770 | [基本计算器 IV](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 739 | [每日温度](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 735 | [行星碰撞](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 726 | [原子的数量](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
-| 682 | [棒球比赛](https://github.com/openset/leetcode/tree/master/problems/baseball-game) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |
-| 636 | [函数的独占时间](https://github.com/openset/leetcode/tree/master/problems/exclusive-time-of-functions) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 591 | [标签验证器](https://github.com/openset/leetcode/tree/master/problems/tag-validator) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 503 | [下一个更大元素 II](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 496 | [下一个更大元素 I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |
-| 456 | [132模式](https://github.com/openset/leetcode/tree/master/problems/132-pattern) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 439 | [三元表达式解析器](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 402 | [移掉K位数字](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 394 | [字符串解码](https://github.com/openset/leetcode/tree/master/problems/decode-string) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 385 | [迷你语法分析器](https://github.com/openset/leetcode/tree/master/problems/mini-parser) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 341 | [扁平化嵌套列表迭代器](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Medium |
-| 331 | [验证二叉树的前序序列化](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-serialization-of-a-binary-tree) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 316 | [去除重复字母](https://github.com/openset/leetcode/tree/master/problems/remove-duplicate-letters) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Hard |
-| 272 | [最接近的二叉搜索树值 II](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Hard |
-| 255 | [验证前序遍历序列二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 232 | [用栈实现队列](https://github.com/openset/leetcode/tree/master/problems/implement-queue-using-stacks) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Easy |
-| 225 | [用队列实现栈](https://github.com/openset/leetcode/tree/master/problems/implement-stack-using-queues) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Easy |
-| 224 | [基本计算器](https://github.com/openset/leetcode/tree/master/problems/basic-calculator) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
-| 173 | [二叉搜索树迭代器](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Medium |
-| 155 | [最小栈](https://github.com/openset/leetcode/tree/master/problems/min-stack) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Easy |
-| 150 | [逆波兰表达式求值](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
-| 145 | [二叉树的后序遍历](https://github.com/openset/leetcode/tree/master/problems/binary-tree-postorder-traversal) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Hard |
-| 144 | [二叉树的前序遍历](https://github.com/openset/leetcode/tree/master/problems/binary-tree-preorder-traversal) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 103 | [二叉树的锯齿形层次遍历](https://github.com/openset/leetcode/tree/master/problems/binary-tree-zigzag-level-order-traversal) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
-| 94 | [二叉树的中序遍历](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 85 | [最大矩形](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 84 | [柱状图中最大的矩形](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
-| 71 | [简化路径](https://github.com/openset/leetcode/tree/master/problems/simplify-path) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 42 | [接雨水](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Hard |
-| 20 | [有效的括号](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
+| 1249 | [移除无效的括号](../../problems/minimum-remove-to-make-valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1209 | [删除字符串中的所有相邻重复项 II](../../problems/remove-all-adjacent-duplicates-in-string-ii) | [[栈](../stack/README.md)]  | Medium |
+| 1190 | [反转每对括号间的子串](../../problems/reverse-substrings-between-each-pair-of-parentheses) | [[栈](../stack/README.md)]  | Medium |
+| 1130 | [叶值的最小代价生成树](../../problems/minimum-cost-tree-from-leaf-values) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1124 | [表现良好的最长时间段](../../problems/longest-well-performing-interval) | [[栈](../stack/README.md)]  | Medium |
+| 1063 | [有效子数组的数目](../../problems/number-of-valid-subarrays) 🔒 | [[栈](../stack/README.md)]  | Hard |
+| 1047 | [删除字符串中的所有相邻重复项](../../problems/remove-all-adjacent-duplicates-in-string) | [[栈](../stack/README.md)]  | Easy |
+| 1021 | [删除最外层的括号](../../problems/remove-outermost-parentheses) | [[栈](../stack/README.md)]  | Easy |
+| 1019 | [链表中的下一个更大节点](../../problems/next-greater-node-in-linked-list) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 1003 | [检查替换后的词是否有效](../../problems/check-if-word-is-valid-after-substitutions) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 975 | [奇偶跳](../../problems/odd-even-jump) | [[栈](../stack/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
+| 946 | [验证栈序列](../../problems/validate-stack-sequences) | [[栈](../stack/README.md)]  | Medium |
+| 921 | [使括号有效的最少添加](../../problems/minimum-add-to-make-parentheses-valid) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
+| 907 | [子数组的最小值之和](../../problems/sum-of-subarray-minimums) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Medium |
+| 901 | [股票价格跨度](../../problems/online-stock-span) | [[栈](../stack/README.md)]  | Medium |
+| 895 | [最大频率栈](../../problems/maximum-frequency-stack) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
+| 880 | [索引处的解码字符串](../../problems/decoded-string-at-index) | [[栈](../stack/README.md)]  | Medium |
+| 856 | [括号的分数](../../problems/score-of-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 844 | [比较含退格的字符串](../../problems/backspace-string-compare) | [[栈](../stack/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 772 | [基本计算器 III](../../problems/basic-calculator-iii) 🔒 | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 770 | [基本计算器 IV](../../problems/basic-calculator-iv) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 739 | [每日温度](../../problems/daily-temperatures) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 735 | [行星碰撞](../../problems/asteroid-collision) | [[栈](../stack/README.md)]  | Medium |
+| 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
+| 682 | [棒球比赛](../../problems/baseball-game) | [[栈](../stack/README.md)]  | Easy |
+| 636 | [函数的独占时间](../../problems/exclusive-time-of-functions) | [[栈](../stack/README.md)]  | Medium |
+| 591 | [标签验证器](../../problems/tag-validator) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 503 | [下一个更大元素 II](../../problems/next-greater-element-ii) | [[栈](../stack/README.md)]  | Medium |
+| 496 | [下一个更大元素 I](../../problems/next-greater-element-i) | [[栈](../stack/README.md)]  | Easy |
+| 456 | [132模式](../../problems/132-pattern) | [[栈](../stack/README.md)]  | Medium |
+| 439 | [三元表达式解析器](../../problems/ternary-expression-parser) 🔒 | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 402 | [移掉K位数字](../../problems/remove-k-digits) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
+| 394 | [字符串解码](../../problems/decode-string) | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 385 | [迷你语法分析器](../../problems/mini-parser) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 341 | [扁平化嵌套列表迭代器](../../problems/flatten-nested-list-iterator) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |
+| 331 | [验证二叉树的前序序列化](../../problems/verify-preorder-serialization-of-a-binary-tree) | [[栈](../stack/README.md)]  | Medium |
+| 316 | [去除重复字母](../../problems/remove-duplicate-letters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
+| 272 | [最接近的二叉搜索树值 II](../../problems/closest-binary-search-tree-value-ii) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Hard |
+| 255 | [验证前序遍历序列二叉搜索树](../../problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
+| 232 | [用栈实现队列](../../problems/implement-queue-using-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
+| 225 | [用队列实现栈](../../problems/implement-stack-using-queues) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
+| 224 | [基本计算器](../../problems/basic-calculator) | [[栈](../stack/README.md)] [[数学](../math/README.md)]  | Hard |
+| 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
+| 155 | [最小栈](../../problems/min-stack) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
+| 150 | [逆波兰表达式求值](../../problems/evaluate-reverse-polish-notation) | [[栈](../stack/README.md)]  | Medium |
+| 145 | [二叉树的后序遍历](../../problems/binary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Hard |
+| 144 | [二叉树的前序遍历](../../problems/binary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
+| 103 | [二叉树的锯齿形层次遍历](../../problems/binary-tree-zigzag-level-order-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 94 | [二叉树的中序遍历](../../problems/binary-tree-inorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 85 | [最大矩形](../../problems/maximal-rectangle) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 84 | [柱状图中最大的矩形](../../problems/largest-rectangle-in-histogram) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Hard |
+| 71 | [简化路径](../../problems/simplify-path) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 42 | [接雨水](../../problems/trapping-rain-water) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Hard |
+| 20 | [有效的括号](../../problems/valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |

@@ -5,11 +5,11 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/dinner-plate-stacks "Dinner Plate Stacks")
+[< Previous](../dinner-plate-stacks "Dinner Plate Stacks")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/immediate-food-delivery-ii "Immediate Food Delivery II")
+[Next >](../immediate-food-delivery-ii "Immediate Food Delivery II")
 
-## [1173. Immediate Food Delivery I (Easy)](https://leetcode.com/problems/immediate-food-delivery-i "")
+## [1173. Immediate Food Delivery I (Easy)](https://leetcode.com/problems/immediate-food-delivery-i "即时食物配送 I")
 
 <p>Table: <code>Delivery</code></p>
 

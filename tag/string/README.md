@@ -5,157 +5,158 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 字符串
+## [话题分类](../README.md) > 字符串
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1271 | [十六进制魔术数字](https://github.com/openset/leetcode/tree/master/problems/hexspeak) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1268 | [搜索推荐系统](https://github.com/openset/leetcode/tree/master/problems/search-suggestions-system) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1249 | [移除无效的括号](https://github.com/openset/leetcode/tree/master/problems/minimum-remove-to-make-valid-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1247 | [交换字符使得字符串相同](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-strings-equal) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1234 | [替换子串得到平衡字符串](https://github.com/openset/leetcode/tree/master/problems/replace-the-substring-for-balanced-string) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1233 | [删除子文件夹](https://github.com/openset/leetcode/tree/master/problems/remove-sub-folders-from-the-filesystem) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1221 | [分割平衡字符串](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1216 | [验证回文字符串 III](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1189 | [“气球” 的最大数量](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1181 | [前后拼接](https://github.com/openset/leetcode/tree/master/problems/before-and-after-puzzle) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1180 | [统计只含单一字母的子串](https://github.com/openset/leetcode/tree/master/problems/count-substrings-with-only-one-distinct-letter) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1177 | [构建回文串检测](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1170 | [比较字符串最小字母出现频次](https://github.com/openset/leetcode/tree/master/problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1169 | [查询无效交易](https://github.com/openset/leetcode/tree/master/problems/invalid-transactions) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1165 | [单行键盘](https://github.com/openset/leetcode/tree/master/problems/single-row-keyboard) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1163 | [按字典序排在最后的子串](https://github.com/openset/leetcode/tree/master/problems/last-substring-in-lexicographical-order) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 1156 | [单字符重复子串的最大长度](https://github.com/openset/leetcode/tree/master/problems/swap-for-longest-repeated-character-substring) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1138 | [字母板上的路径](https://github.com/openset/leetcode/tree/master/problems/alphabet-board-path) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1119 | [删去字符串中的元音](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1108 | [IP 地址无效化](https://github.com/openset/leetcode/tree/master/problems/defanging-an-ip-address) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1106 | [解析布尔表达式](https://github.com/openset/leetcode/tree/master/problems/parsing-a-boolean-expression) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 1100 | [长度为 K 的无重复字符子串](https://github.com/openset/leetcode/tree/master/problems/find-k-length-substrings-with-no-repeated-characters) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
-| 1096 | [花括号展开 II](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 1081 | [不同字符的最小子序列](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1071 | [字符串的最大公因子](https://github.com/openset/leetcode/tree/master/problems/greatest-common-divisor-of-strings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1065 | [字符串的索引对](https://github.com/openset/leetcode/tree/master/problems/index-pairs-of-a-string) 🔒 | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1062 | [最长重复子串](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-substring) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1023 | [驼峰式匹配](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1016 | [子串能表示从 1 到 N 数字的二进制串](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1003 | [检查替换后的词是否有效](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 966 | [元音拼写检查器](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 937 | [重新排列日志文件](https://github.com/openset/leetcode/tree/master/problems/reorder-data-in-log-files) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 936 | [戳印序列](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 929 | [独特的电子邮件地址](https://github.com/openset/leetcode/tree/master/problems/unique-email-addresses) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 925 | [长按键入](https://github.com/openset/leetcode/tree/master/problems/long-pressed-name) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 917 | [仅仅反转字母](https://github.com/openset/leetcode/tree/master/problems/reverse-only-letters) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 916 | [单词子集](https://github.com/openset/leetcode/tree/master/problems/word-subsets) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 899 | [有序队列](https://github.com/openset/leetcode/tree/master/problems/orderly-queue) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 893 | [特殊等价字符串组](https://github.com/openset/leetcode/tree/master/problems/groups-of-special-equivalent-strings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 890 | [查找和替换模式](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-pattern) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 859 | [亲密字符串](https://github.com/openset/leetcode/tree/master/problems/buddy-strings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 856 | [括号的分数](https://github.com/openset/leetcode/tree/master/problems/score-of-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 848 | [字母移位](https://github.com/openset/leetcode/tree/master/problems/shifting-letters) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 842 | [将数组拆分成斐波那契序列](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 833 | [字符串中的查找与替换](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-in-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 831 | [隐藏个人信息](https://github.com/openset/leetcode/tree/master/problems/masking-personal-information) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 824 | [山羊拉丁文](https://github.com/openset/leetcode/tree/master/problems/goat-latin) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 819 | [最常见的单词](https://github.com/openset/leetcode/tree/master/problems/most-common-word) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 816 | [模糊坐标](https://github.com/openset/leetcode/tree/master/problems/ambiguous-coordinates) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 809 | [情感丰富的文字](https://github.com/openset/leetcode/tree/master/problems/expressive-words) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 804 | [唯一摩尔斯密码词](https://github.com/openset/leetcode/tree/master/problems/unique-morse-code-words) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 800 | [相似 RGB 颜色](https://github.com/openset/leetcode/tree/master/problems/similar-rgb-color) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 791 | [自定义字符串排序](https://github.com/openset/leetcode/tree/master/problems/custom-sort-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 788 | [旋转数字](https://github.com/openset/leetcode/tree/master/problems/rotated-digits) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 772 | [基本计算器 III](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 770 | [基本计算器 IV](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 767 | [重构字符串](https://github.com/openset/leetcode/tree/master/problems/reorganize-string) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 761 | [特殊的二进制序列](https://github.com/openset/leetcode/tree/master/problems/special-binary-string) | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 758 | [字符串中的加粗单词](https://github.com/openset/leetcode/tree/master/problems/bold-words-in-string) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 736 | [Lisp 语法解析](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 730 | [统计不同回文子字符串](https://github.com/openset/leetcode/tree/master/problems/count-different-palindromic-subsequences) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 722 | [删除注释](https://github.com/openset/leetcode/tree/master/problems/remove-comments) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 709 | [转换成小写字母](https://github.com/openset/leetcode/tree/master/problems/to-lower-case) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 696 | [计数二进制子串](https://github.com/openset/leetcode/tree/master/problems/count-binary-substrings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 686 | [重复叠加字符串匹配](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 681 | [最近时刻](https://github.com/openset/leetcode/tree/master/problems/next-closest-time) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 680 | [验证回文字符串 Ⅱ](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-ii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 678 | [有效的括号字符串](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 657 | [机器人能否返回原点](https://github.com/openset/leetcode/tree/master/problems/robot-return-to-origin) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 647 | [回文子串](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 635 | [设计日志存储系统](https://github.com/openset/leetcode/tree/master/problems/design-log-storage-system) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 632 | [最小区间](https://github.com/openset/leetcode/tree/master/problems/smallest-range-covering-elements-from-k-lists) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 616 | [给字符串添加加粗标签](https://github.com/openset/leetcode/tree/master/problems/add-bold-tag-in-string) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 609 | [在系统中查找重复文件](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-file-in-system) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 606 | [根据二叉树创建字符串](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 591 | [标签验证器](https://github.com/openset/leetcode/tree/master/problems/tag-validator) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 583 | [两个字符串的删除操作](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 564 | [寻找最近的回文数](https://github.com/openset/leetcode/tree/master/problems/find-the-closest-palindrome) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 557 | [反转字符串中的单词 III](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-iii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 556 | [下一个更大元素 III](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 555 | [分割连接字符串](https://github.com/openset/leetcode/tree/master/problems/split-concatenated-strings) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 553 | [最优除法](https://github.com/openset/leetcode/tree/master/problems/optimal-division) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 551 | [学生出勤记录 I](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 544 | [输出比赛匹配对](https://github.com/openset/leetcode/tree/master/problems/output-contest-matches) 🔒 | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 541 | [反转字符串 II](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 539 | [最小时间差](https://github.com/openset/leetcode/tree/master/problems/minimum-time-difference) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 537 | [复数乘法](https://github.com/openset/leetcode/tree/master/problems/complex-number-multiplication) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 536 | [从字符串生成二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-string) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 527 | [单词缩写](https://github.com/openset/leetcode/tree/master/problems/word-abbreviation) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 522 | [最长特殊序列 II](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 521 | [最长特殊序列 Ⅰ](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 520 | [检测大写字母](https://github.com/openset/leetcode/tree/master/problems/detect-capital) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 468 | [验证IP地址](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 459 | [重复的子字符串](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 443 | [压缩字符串](https://github.com/openset/leetcode/tree/master/problems/string-compression) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 434 | [字符串中的单词数](https://github.com/openset/leetcode/tree/master/problems/number-of-segments-in-a-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 415 | [字符串相加](https://github.com/openset/leetcode/tree/master/problems/add-strings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 408 | [有效单词缩写](https://github.com/openset/leetcode/tree/master/problems/valid-word-abbreviation) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 387 | [字符串中的第一个唯一字符](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 385 | [迷你语法分析器](https://github.com/openset/leetcode/tree/master/problems/mini-parser) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 383 | [赎金信](https://github.com/openset/leetcode/tree/master/problems/ransom-note) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 345 | [反转字符串中的元音字母](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 344 | [反转字符串](https://github.com/openset/leetcode/tree/master/problems/reverse-string) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 340 | [至多包含 K 个不同字符的最长子串](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
-| 336 | [回文对](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 293 | [翻转游戏](https://github.com/openset/leetcode/tree/master/problems/flip-game) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 273 | [整数转换英文表示](https://github.com/openset/leetcode/tree/master/problems/integer-to-english-words) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 271 | [字符串的编码与解码](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 249 | [移位字符串分组](https://github.com/openset/leetcode/tree/master/problems/group-shifted-strings) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 227 | [基本计算器 II](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-ii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 214 | [最短回文串](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 186 | [翻转字符串里的单词 II](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 165 | [比较版本号](https://github.com/openset/leetcode/tree/master/problems/compare-version-numbers) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 161 | [相隔为 1 的编辑距离](https://github.com/openset/leetcode/tree/master/problems/one-edit-distance) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 159 | [至多包含两个不同字符的最长子串](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
-| 158 | [用 Read4 读取 N 个字符 II](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4-ii-call-multiple-times) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 157 | [用 Read4 读取 N 个字符](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 151 | [翻转字符串里的单词](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 126 | [单词接龙 II](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 125 | [验证回文串](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 115 | [不同的子序列](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 97 | [交错字符串](https://github.com/openset/leetcode/tree/master/problems/interleaving-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 93 | [复原IP地址](https://github.com/openset/leetcode/tree/master/problems/restore-ip-addresses) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 91 | [解码方法](https://github.com/openset/leetcode/tree/master/problems/decode-ways) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 87 | [扰乱字符串](https://github.com/openset/leetcode/tree/master/problems/scramble-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 76 | [最小覆盖子串](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
-| 72 | [编辑距离](https://github.com/openset/leetcode/tree/master/problems/edit-distance) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 71 | [简化路径](https://github.com/openset/leetcode/tree/master/problems/simplify-path) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 68 | [文本左右对齐](https://github.com/openset/leetcode/tree/master/problems/text-justification) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 67 | [二进制求和](https://github.com/openset/leetcode/tree/master/problems/add-binary) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 65 | [有效数字](https://github.com/openset/leetcode/tree/master/problems/valid-number) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 58 | [最后一个单词的长度](https://github.com/openset/leetcode/tree/master/problems/length-of-last-word) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 49 | [字母异位词分组](https://github.com/openset/leetcode/tree/master/problems/group-anagrams) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 44 | [通配符匹配](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 43 | [字符串相乘](https://github.com/openset/leetcode/tree/master/problems/multiply-strings) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 38 | [报数](https://github.com/openset/leetcode/tree/master/problems/count-and-say) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 32 | [最长有效括号](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 30 | [串联所有单词的子串](https://github.com/openset/leetcode/tree/master/problems/substring-with-concatenation-of-all-words) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 28 | [实现 strStr()](https://github.com/openset/leetcode/tree/master/problems/implement-strstr) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 22 | [括号生成](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 20 | [有效的括号](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 17 | [电话号码的字母组合](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 14 | [最长公共前缀](https://github.com/openset/leetcode/tree/master/problems/longest-common-prefix) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 13 | [罗马数字转整数](https://github.com/openset/leetcode/tree/master/problems/roman-to-integer) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 12 | [整数转罗马数字](https://github.com/openset/leetcode/tree/master/problems/integer-to-roman) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 10 | [正则表达式匹配](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 8 | [字符串转换整数 (atoi)](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 6 | [Z 字形变换](https://github.com/openset/leetcode/tree/master/problems/zigzag-conversion) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 5 | [最长回文子串](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 3 | [无重复字符的最长子串](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
+| 1297 | [子串的最大出现次数](../../problems/maximum-number-of-occurrences-of-a-substring) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1271 | [十六进制魔术数字](../../problems/hexspeak) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1268 | [搜索推荐系统](../../problems/search-suggestions-system) | [[字符串](../string/README.md)]  | Medium |
+| 1249 | [移除无效的括号](../../problems/minimum-remove-to-make-valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1247 | [交换字符使得字符串相同](../../problems/minimum-swaps-to-make-strings-equal) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1234 | [替换子串得到平衡字符串](../../problems/replace-the-substring-for-balanced-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1233 | [删除子文件夹](../../problems/remove-sub-folders-from-the-filesystem) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1221 | [分割平衡字符串](../../problems/split-a-string-in-balanced-strings) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1216 | [验证回文字符串 III](../../problems/valid-palindrome-iii) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1189 | [“气球” 的最大数量](../../problems/maximum-number-of-balloons) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1181 | [前后拼接](../../problems/before-and-after-puzzle) 🔒 | [[字符串](../string/README.md)]  | Medium |
+| 1180 | [统计只含单一字母的子串](../../problems/count-substrings-with-only-one-distinct-letter) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1177 | [构建回文串检测](../../problems/can-make-palindrome-from-substring) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1170 | [比较字符串最小字母出现频次](../../problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1169 | [查询无效交易](../../problems/invalid-transactions) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1165 | [单行键盘](../../problems/single-row-keyboard) 🔒 | [[字符串](../string/README.md)]  | Easy |
+| 1163 | [按字典序排在最后的子串](../../problems/last-substring-in-lexicographical-order) | [[字符串](../string/README.md)]  | Hard |
+| 1156 | [单字符重复子串的最大长度](../../problems/swap-for-longest-repeated-character-substring) | [[字符串](../string/README.md)]  | Medium |
+| 1138 | [字母板上的路径](../../problems/alphabet-board-path) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1119 | [删去字符串中的元音](../../problems/remove-vowels-from-a-string) 🔒 | [[字符串](../string/README.md)]  | Easy |
+| 1108 | [IP 地址无效化](../../problems/defanging-an-ip-address) | [[字符串](../string/README.md)]  | Easy |
+| 1106 | [解析布尔表达式](../../problems/parsing-a-boolean-expression) | [[字符串](../string/README.md)]  | Hard |
+| 1100 | [长度为 K 的无重复字符子串](../../problems/find-k-length-substrings-with-no-repeated-characters) 🔒 | [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 1096 | [花括号展开 II](../../problems/brace-expansion-ii) | [[字符串](../string/README.md)]  | Hard |
+| 1081 | [不同字符的最小子序列](../../problems/smallest-subsequence-of-distinct-characters) | [[字符串](../string/README.md)]  | Medium |
+| 1071 | [字符串的最大公因子](../../problems/greatest-common-divisor-of-strings) | [[字符串](../string/README.md)]  | Easy |
+| 1065 | [字符串的索引对](../../problems/index-pairs-of-a-string) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1062 | [最长重复子串](../../problems/longest-repeating-substring) 🔒 | [[字符串](../string/README.md)]  | Medium |
+| 1023 | [驼峰式匹配](../../problems/camelcase-matching) | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1016 | [子串能表示从 1 到 N 数字的二进制串](../../problems/binary-string-with-substrings-representing-1-to-n) | [[字符串](../string/README.md)]  | Medium |
+| 1003 | [检查替换后的词是否有效](../../problems/check-if-word-is-valid-after-substitutions) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 966 | [元音拼写检查器](../../problems/vowel-spellchecker) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 937 | [重新排列日志文件](../../problems/reorder-data-in-log-files) | [[字符串](../string/README.md)]  | Easy |
+| 936 | [戳印序列](../../problems/stamping-the-sequence) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 929 | [独特的电子邮件地址](../../problems/unique-email-addresses) | [[字符串](../string/README.md)]  | Easy |
+| 925 | [长按键入](../../problems/long-pressed-name) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 917 | [仅仅反转字母](../../problems/reverse-only-letters) | [[字符串](../string/README.md)]  | Easy |
+| 916 | [单词子集](../../problems/word-subsets) | [[字符串](../string/README.md)]  | Medium |
+| 899 | [有序队列](../../problems/orderly-queue) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 893 | [特殊等价字符串组](../../problems/groups-of-special-equivalent-strings) | [[字符串](../string/README.md)]  | Easy |
+| 890 | [查找和替换模式](../../problems/find-and-replace-pattern) | [[字符串](../string/README.md)]  | Medium |
+| 859 | [亲密字符串](../../problems/buddy-strings) | [[字符串](../string/README.md)]  | Easy |
+| 856 | [括号的分数](../../problems/score-of-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 848 | [字母移位](../../problems/shifting-letters) | [[字符串](../string/README.md)]  | Medium |
+| 842 | [将数组拆分成斐波那契序列](../../problems/split-array-into-fibonacci-sequence) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 833 | [字符串中的查找与替换](../../problems/find-and-replace-in-string) | [[字符串](../string/README.md)]  | Medium |
+| 831 | [隐藏个人信息](../../problems/masking-personal-information) | [[字符串](../string/README.md)]  | Medium |
+| 824 | [山羊拉丁文](../../problems/goat-latin) | [[字符串](../string/README.md)]  | Easy |
+| 819 | [最常见的单词](../../problems/most-common-word) | [[字符串](../string/README.md)]  | Easy |
+| 816 | [模糊坐标](../../problems/ambiguous-coordinates) | [[字符串](../string/README.md)]  | Medium |
+| 809 | [情感丰富的文字](../../problems/expressive-words) | [[字符串](../string/README.md)]  | Medium |
+| 804 | [唯一摩尔斯密码词](../../problems/unique-morse-code-words) | [[字符串](../string/README.md)]  | Easy |
+| 800 | [相似 RGB 颜色](../../problems/similar-rgb-color) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 791 | [自定义字符串排序](../../problems/custom-sort-string) | [[字符串](../string/README.md)]  | Medium |
+| 788 | [旋转数字](../../problems/rotated-digits) | [[字符串](../string/README.md)]  | Easy |
+| 772 | [基本计算器 III](../../problems/basic-calculator-iii) 🔒 | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 770 | [基本计算器 IV](../../problems/basic-calculator-iv) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 767 | [重构字符串](../../problems/reorganize-string) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 761 | [特殊的二进制序列](../../problems/special-binary-string) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 758 | [字符串中的加粗单词](../../problems/bold-words-in-string) 🔒 | [[字符串](../string/README.md)]  | Easy |
+| 736 | [Lisp 语法解析](../../problems/parse-lisp-expression) | [[字符串](../string/README.md)]  | Hard |
+| 730 | [统计不同回文子字符串](../../problems/count-different-palindromic-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 722 | [删除注释](../../problems/remove-comments) | [[字符串](../string/README.md)]  | Medium |
+| 709 | [转换成小写字母](../../problems/to-lower-case) | [[字符串](../string/README.md)]  | Easy |
+| 696 | [计数二进制子串](../../problems/count-binary-substrings) | [[字符串](../string/README.md)]  | Easy |
+| 686 | [重复叠加字符串匹配](../../problems/repeated-string-match) | [[字符串](../string/README.md)]  | Easy |
+| 681 | [最近时刻](../../problems/next-closest-time) 🔒 | [[字符串](../string/README.md)]  | Medium |
+| 680 | [验证回文字符串 Ⅱ](../../problems/valid-palindrome-ii) | [[字符串](../string/README.md)]  | Easy |
+| 678 | [有效的括号字符串](../../problems/valid-parenthesis-string) | [[字符串](../string/README.md)]  | Medium |
+| 657 | [机器人能否返回原点](../../problems/robot-return-to-origin) | [[字符串](../string/README.md)]  | Easy |
+| 647 | [回文子串](../../problems/palindromic-substrings) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 635 | [设计日志存储系统](../../problems/design-log-storage-system) 🔒 | [[设计](../design/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 632 | [最小区间](../../problems/smallest-range-covering-elements-from-k-lists) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 616 | [给字符串添加加粗标签](../../problems/add-bold-tag-in-string) 🔒 | [[字符串](../string/README.md)]  | Medium |
+| 609 | [在系统中查找重复文件](../../problems/find-duplicate-file-in-system) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 606 | [根据二叉树创建字符串](../../problems/construct-string-from-binary-tree) | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 591 | [标签验证器](../../problems/tag-validator) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 583 | [两个字符串的删除操作](../../problems/delete-operation-for-two-strings) | [[字符串](../string/README.md)]  | Medium |
+| 564 | [寻找最近的回文数](../../problems/find-the-closest-palindrome) | [[字符串](../string/README.md)]  | Hard |
+| 557 | [反转字符串中的单词 III](../../problems/reverse-words-in-a-string-iii) | [[字符串](../string/README.md)]  | Easy |
+| 556 | [下一个更大元素 III](../../problems/next-greater-element-iii) | [[字符串](../string/README.md)]  | Medium |
+| 555 | [分割连接字符串](../../problems/split-concatenated-strings) 🔒 | [[字符串](../string/README.md)]  | Medium |
+| 553 | [最优除法](../../problems/optimal-division) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 551 | [学生出勤记录 I](../../problems/student-attendance-record-i) | [[字符串](../string/README.md)]  | Easy |
+| 544 | [输出比赛匹配对](../../problems/output-contest-matches) 🔒 | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 541 | [反转字符串 II](../../problems/reverse-string-ii) | [[字符串](../string/README.md)]  | Easy |
+| 539 | [最小时间差](../../problems/minimum-time-difference) | [[字符串](../string/README.md)]  | Medium |
+| 537 | [复数乘法](../../problems/complex-number-multiplication) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 536 | [从字符串生成二叉树](../../problems/construct-binary-tree-from-string) 🔒 | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 527 | [单词缩写](../../problems/word-abbreviation) 🔒 | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 522 | [最长特殊序列 II](../../problems/longest-uncommon-subsequence-ii) | [[字符串](../string/README.md)]  | Medium |
+| 521 | [最长特殊序列 Ⅰ](../../problems/longest-uncommon-subsequence-i) | [[字符串](../string/README.md)]  | Easy |
+| 520 | [检测大写字母](../../problems/detect-capital) | [[字符串](../string/README.md)]  | Easy |
+| 468 | [验证IP地址](../../problems/validate-ip-address) | [[字符串](../string/README.md)]  | Medium |
+| 459 | [重复的子字符串](../../problems/repeated-substring-pattern) | [[字符串](../string/README.md)]  | Easy |
+| 443 | [压缩字符串](../../problems/string-compression) | [[字符串](../string/README.md)]  | Easy |
+| 434 | [字符串中的单词数](../../problems/number-of-segments-in-a-string) | [[字符串](../string/README.md)]  | Easy |
+| 415 | [字符串相加](../../problems/add-strings) | [[字符串](../string/README.md)]  | Easy |
+| 408 | [有效单词缩写](../../problems/valid-word-abbreviation) 🔒 | [[字符串](../string/README.md)]  | Easy |
+| 387 | [字符串中的第一个唯一字符](../../problems/first-unique-character-in-a-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 385 | [迷你语法分析器](../../problems/mini-parser) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 383 | [赎金信](../../problems/ransom-note) | [[字符串](../string/README.md)]  | Easy |
+| 345 | [反转字符串中的元音字母](../../problems/reverse-vowels-of-a-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 344 | [反转字符串](../../problems/reverse-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 340 | [至多包含 K 个不同字符的最长子串](../../problems/longest-substring-with-at-most-k-distinct-characters) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
+| 336 | [回文对](../../problems/palindrome-pairs) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 293 | [翻转游戏](../../problems/flip-game) 🔒 | [[字符串](../string/README.md)]  | Easy |
+| 273 | [整数转换英文表示](../../problems/integer-to-english-words) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 271 | [字符串的编码与解码](../../problems/encode-and-decode-strings) 🔒 | [[字符串](../string/README.md)]  | Medium |
+| 249 | [移位字符串分组](../../problems/group-shifted-strings) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 227 | [基本计算器 II](../../problems/basic-calculator-ii) | [[字符串](../string/README.md)]  | Medium |
+| 214 | [最短回文串](../../problems/shortest-palindrome) | [[字符串](../string/README.md)]  | Hard |
+| 186 | [翻转字符串里的单词 II](../../problems/reverse-words-in-a-string-ii) 🔒 | [[字符串](../string/README.md)]  | Medium |
+| 165 | [比较版本号](../../problems/compare-version-numbers) | [[字符串](../string/README.md)]  | Medium |
+| 161 | [相隔为 1 的编辑距离](../../problems/one-edit-distance) 🔒 | [[字符串](../string/README.md)]  | Medium |
+| 159 | [至多包含两个不同字符的最长子串](../../problems/longest-substring-with-at-most-two-distinct-characters) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 158 | [用 Read4 读取 N 个字符 II](../../problems/read-n-characters-given-read4-ii-call-multiple-times) 🔒 | [[字符串](../string/README.md)]  | Hard |
+| 157 | [用 Read4 读取 N 个字符](../../problems/read-n-characters-given-read4) 🔒 | [[字符串](../string/README.md)]  | Easy |
+| 151 | [翻转字符串里的单词](../../problems/reverse-words-in-a-string) | [[字符串](../string/README.md)]  | Medium |
+| 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 125 | [验证回文串](../../problems/valid-palindrome) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 115 | [不同的子序列](../../problems/distinct-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 97 | [交错字符串](../../problems/interleaving-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 93 | [复原IP地址](../../problems/restore-ip-addresses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 91 | [解码方法](../../problems/decode-ways) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 87 | [扰乱字符串](../../problems/scramble-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 76 | [最小覆盖子串](../../problems/minimum-window-substring) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
+| 72 | [编辑距离](../../problems/edit-distance) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 71 | [简化路径](../../problems/simplify-path) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 68 | [文本左右对齐](../../problems/text-justification) | [[字符串](../string/README.md)]  | Hard |
+| 67 | [二进制求和](../../problems/add-binary) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 65 | [有效数字](../../problems/valid-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 58 | [最后一个单词的长度](../../problems/length-of-last-word) | [[字符串](../string/README.md)]  | Easy |
+| 49 | [字母异位词分组](../../problems/group-anagrams) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 43 | [字符串相乘](../../problems/multiply-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 38 | [报数](../../problems/count-and-say) | [[字符串](../string/README.md)]  | Easy |
+| 32 | [最长有效括号](../../problems/longest-valid-parentheses) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 30 | [串联所有单词的子串](../../problems/substring-with-concatenation-of-all-words) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 28 | [实现 strStr()](../../problems/implement-strstr) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 22 | [括号生成](../../problems/generate-parentheses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 20 | [有效的括号](../../problems/valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 14 | [最长公共前缀](../../problems/longest-common-prefix) | [[字符串](../string/README.md)]  | Easy |
+| 13 | [罗马数字转整数](../../problems/roman-to-integer) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 12 | [整数转罗马数字](../../problems/integer-to-roman) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 10 | [正则表达式匹配](../../problems/regular-expression-matching) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 8 | [字符串转换整数 (atoi)](../../problems/string-to-integer-atoi) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 6 | [Z 字形变换](../../problems/zigzag-conversion) | [[字符串](../string/README.md)]  | Medium |
+| 5 | [最长回文子串](../../problems/longest-palindromic-substring) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 3 | [无重复字符的最长子串](../../problems/longest-substring-without-repeating-characters) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |

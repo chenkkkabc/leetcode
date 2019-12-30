@@ -5,13 +5,13 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 拓扑排序
+## [话题分类](../README.md) > 拓扑排序
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1203 | [项目管理](https://github.com/openset/leetcode/tree/master/problems/sort-items-by-groups-respecting-dependencies) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]  | Hard |
-| 444 | [序列重建](https://github.com/openset/leetcode/tree/master/problems/sequence-reconstruction) 🔒 | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]  | Medium |
-| 329 | [矩阵中的最长递增路径](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)] [[记忆化](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]  | Hard |
-| 269 | [火星词典](https://github.com/openset/leetcode/tree/master/problems/alien-dictionary) 🔒 | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]  | Hard |
-| 210 | [课程表 II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]  | Medium |
-| 207 | [课程表](https://github.com/openset/leetcode/tree/master/problems/course-schedule) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]  | Medium |
+| 1203 | [项目管理](../../problems/sort-items-by-groups-respecting-dependencies) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |
+| 444 | [序列重建](../../problems/sequence-reconstruction) 🔒 | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Medium |
+| 329 | [矩阵中的最长递增路径](../../problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](../depth-first-search/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化](../memoization/README.md)]  | Hard |
+| 269 | [火星词典](../../problems/alien-dictionary) 🔒 | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |
+| 210 | [课程表 II](../../problems/course-schedule-ii) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Medium |
+| 207 | [课程表](../../problems/course-schedule) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Medium |

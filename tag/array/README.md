@@ -5,217 +5,222 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 数组
+## [话题分类](../README.md) > 数组
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1292 | [元素和小于等于阈值的正方形的最大边长](https://github.com/openset/leetcode/tree/master/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 1287 | [有序数组中出现次数超过25%的元素](https://github.com/openset/leetcode/tree/master/problems/element-appearing-more-than-25-in-sorted-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1277 | [统计全为 1 的正方形子矩阵](https://github.com/openset/leetcode/tree/master/problems/count-square-submatrices-with-all-ones) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1275 | [找出井字棋的获胜者](https://github.com/openset/leetcode/tree/master/problems/find-winner-on-a-tic-tac-toe-game) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1267 | [统计参与通信的服务器](https://github.com/openset/leetcode/tree/master/problems/count-servers-that-communicate) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1266 | [访问所有点的最小时间](https://github.com/openset/leetcode/tree/master/problems/minimum-time-visiting-all-points) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1260 | [二维网格迁移](https://github.com/openset/leetcode/tree/master/problems/shift-2d-grid) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1252 | [奇数值单元格的数目](https://github.com/openset/leetcode/tree/master/problems/cells-with-odd-values-in-a-matrix) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1243 | [数组变换](https://github.com/openset/leetcode/tree/master/problems/array-transformation) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1233 | [删除子文件夹](https://github.com/openset/leetcode/tree/master/problems/remove-sub-folders-from-the-filesystem) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1232 | [缀点成线](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-straight-line) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
-| 1222 | [可以攻击国王的皇后](https://github.com/openset/leetcode/tree/master/problems/queens-that-can-attack-the-king) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1217 | [玩筹码](https://github.com/openset/leetcode/tree/master/problems/play-with-chips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
-| 1208 | [尽可能使字符串相等](https://github.com/openset/leetcode/tree/master/problems/get-equal-substrings-within-budget) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
-| 1202 | [交换字符串中的元素](https://github.com/openset/leetcode/tree/master/problems/smallest-string-with-swaps) | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1200 | [最小绝对差](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1185 | [一周中的第几天](https://github.com/openset/leetcode/tree/master/problems/day-of-the-week) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1184 | [公交站间的距离](https://github.com/openset/leetcode/tree/master/problems/distance-between-bus-stops) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1177 | [构建回文串检测](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1176 | [健身计划评估](https://github.com/openset/leetcode/tree/master/problems/diet-plan-performance) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Easy |
-| 1170 | [比较字符串最小字母出现频次](https://github.com/openset/leetcode/tree/master/problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1169 | [查询无效交易](https://github.com/openset/leetcode/tree/master/problems/invalid-transactions) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1160 | [拼写单词](https://github.com/openset/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
-| 1157 | [子数组中占绝大多数的元素](https://github.com/openset/leetcode/tree/master/problems/online-majority-element-in-subarray) | [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
-| 1152 | [用户网站访问行为分析](https://github.com/openset/leetcode/tree/master/problems/analyze-user-website-visit-pattern) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 1151 | [最少交换次数来组合所有的 1](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-group-all-1s-together) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
-| 1150 | [检查一个数是否在数组中占绝大多数](https://github.com/openset/leetcode/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
-| 1146 | [快照数组](https://github.com/openset/leetcode/tree/master/problems/snapshot-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1144 | [递减元素使数组呈锯齿状](https://github.com/openset/leetcode/tree/master/problems/decrease-elements-to-make-array-zigzag) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1133 | [最大唯一数](https://github.com/openset/leetcode/tree/master/problems/largest-unique-number) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
-| 1128 | [等价多米诺骨牌对的数量](https://github.com/openset/leetcode/tree/master/problems/number-of-equivalent-domino-pairs) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1122 | [数组的相对排序](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1109 | [航班预订统计](https://github.com/openset/leetcode/tree/master/problems/corporate-flight-bookings) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 1099 | [小于 K 的两数之和](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1089 | [复写零](https://github.com/openset/leetcode/tree/master/problems/duplicate-zeros) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1086 | [前五科的均分](https://github.com/openset/leetcode/tree/master/problems/high-five) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
-| 1085 | [最小元素各数位之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1074 | [元素和为目标值的子矩阵数量](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
-| 1064 | [不动点](https://github.com/openset/leetcode/tree/master/problems/fixed-point) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
-| 1053 | [交换一次的先前排列](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1052 | [爱生气的书店老板](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
-| 1051 | [高度检查器](https://github.com/openset/leetcode/tree/master/problems/height-checker) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1040 | [移动石子直到连续 II](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
-| 1035 | [不相交的线](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1031 | [两个非重叠子数组的最大和](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1018 | [可被 5 整除的二进制前缀](https://github.com/openset/leetcode/tree/master/problems/binary-prefix-divisible-by-5) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1014 | [最佳观光组合](https://github.com/openset/leetcode/tree/master/problems/best-sightseeing-pair) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1013 | [将数组分成和相等的三个部分](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1011 | [在 D 天内送达包裹的能力](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 1010 | [总持续时间可被 60 整除的歌曲](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 1007 | [行相等的最少多米诺旋转](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1002 | [查找常用字符](https://github.com/openset/leetcode/tree/master/problems/find-common-characters) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
-| 999 | [车的可用捕获量](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 989 | [数组形式的整数加法](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 985 | [查询后的偶数和](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 978 | [最长湍流子数组](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
-| 977 | [有序数组的平方](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
-| 974 | [和可被 K 整除的子数组](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 969 | [煎饼排序](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 962 | [最大宽度坡](https://github.com/openset/leetcode/tree/master/problems/maximum-width-ramp) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 954 | [二倍数对数组](https://github.com/openset/leetcode/tree/master/problems/array-of-doubled-pairs) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 950 | [按递增顺序显示卡牌](https://github.com/openset/leetcode/tree/master/problems/reveal-cards-in-increasing-order) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 945 | [使数组唯一的最小增量](https://github.com/openset/leetcode/tree/master/problems/minimum-increment-to-make-array-unique) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 941 | [有效的山脉数组](https://github.com/openset/leetcode/tree/master/problems/valid-mountain-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 926 | [将字符串翻转到单调递增](https://github.com/openset/leetcode/tree/master/problems/flip-string-to-monotone-increasing) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 922 | [按奇偶排序数组 II](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity-ii) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 918 | [环形子数组的最大和](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-circular-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 915 | [分割数组](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-disjoint-intervals) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 914 | [卡牌分组](https://github.com/openset/leetcode/tree/master/problems/x-of-a-kind-in-a-deck-of-cards) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
-| 907 | [子数组的最小值之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-subarray-minimums) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 905 | [按奇偶排序数组](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 900 | [RLE 迭代器](https://github.com/openset/leetcode/tree/master/problems/rle-iterator) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 896 | [单调数列](https://github.com/openset/leetcode/tree/master/problems/monotonic-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 891 | [子序列宽度之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-subsequence-widths) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
-| 888 | [公平的糖果交换](https://github.com/openset/leetcode/tree/master/problems/fair-candy-swap) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 873 | [最长的斐波那契子序列的长度](https://github.com/openset/leetcode/tree/master/problems/length-of-longest-fibonacci-subsequence) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 870 | [优势洗牌](https://github.com/openset/leetcode/tree/master/problems/advantage-shuffle) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 867 | [转置矩阵](https://github.com/openset/leetcode/tree/master/problems/transpose-matrix) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 849 | [到最近的人的最大距离](https://github.com/openset/leetcode/tree/master/problems/maximize-distance-to-closest-person) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 840 | [矩阵中的幻方](https://github.com/openset/leetcode/tree/master/problems/magic-squares-in-grid) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 835 | [图像重叠](https://github.com/openset/leetcode/tree/master/problems/image-overlap) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 832 | [翻转图像](https://github.com/openset/leetcode/tree/master/problems/flipping-an-image) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 830 | [较大分组的位置](https://github.com/openset/leetcode/tree/master/problems/positions-of-large-groups) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 825 | [适龄的朋友](https://github.com/openset/leetcode/tree/master/problems/friends-of-appropriate-ages) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 795 | [区间子数组个数](https://github.com/openset/leetcode/tree/master/problems/number-of-subarrays-with-bounded-maximum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 792 | [匹配子序列的单词数](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 782 | [变为棋盘](https://github.com/openset/leetcode/tree/master/problems/transform-to-chessboard) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
-| 775 | [全局倒置与局部倒置](https://github.com/openset/leetcode/tree/master/problems/global-and-local-inversions) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 769 | [最多能完成排序的块](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 768 | [最多能完成排序的块 II](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
-| 766 | [托普利茨矩阵](https://github.com/openset/leetcode/tree/master/problems/toeplitz-matrix) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 755 | [倒水](https://github.com/openset/leetcode/tree/master/problems/pour-water) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 747 | [至少是其他数字两倍的最大数](https://github.com/openset/leetcode/tree/master/problems/largest-number-at-least-twice-of-others) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 746 | [使用最小花费爬楼梯](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 729 | [我的日程安排表 I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 724 | [寻找数组的中心索引](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 723 | [粉碎糖果](https://github.com/openset/leetcode/tree/master/problems/candy-crush) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 719 | [找出第 k 小的距离对](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
-| 718 | [最长重复子数组](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-repeated-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 717 | [1比特与2比特字符](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 714 | [买卖股票的最佳时机含手续费](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 713 | [乘积小于K的子数组](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 697 | [数组的度](https://github.com/openset/leetcode/tree/master/problems/degree-of-an-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 695 | [岛屿的最大面积](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 689 | [三个无重叠子数组的最大和](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-3-non-overlapping-subarrays) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 674 | [最长连续递增序列](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 670 | [最大交换](https://github.com/openset/leetcode/tree/master/problems/maximum-swap) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 667 | [优美的排列 II](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 665 | [非递减数列](https://github.com/openset/leetcode/tree/master/problems/non-decreasing-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 661 | [图片平滑器](https://github.com/openset/leetcode/tree/master/problems/image-smoother) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 644 | [最大平均子段和 II](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
-| 643 | [子数组最大平均数 I](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 628 | [三个数的最大乘积](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
-| 624 | [数组列表中的最大距离](https://github.com/openset/leetcode/tree/master/problems/maximum-distance-in-arrays) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
-| 621 | [任务调度器](https://github.com/openset/leetcode/tree/master/problems/task-scheduler) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 611 | [有效三角形的个数](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 605 | [种花问题](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 581 | [最短无序连续子数组](https://github.com/openset/leetcode/tree/master/problems/shortest-unsorted-continuous-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 566 | [重塑矩阵](https://github.com/openset/leetcode/tree/master/problems/reshape-the-matrix) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 565 | [数组嵌套](https://github.com/openset/leetcode/tree/master/problems/array-nesting) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 562 | [矩阵中最长的连续1线段](https://github.com/openset/leetcode/tree/master/problems/longest-line-of-consecutive-one-in-matrix) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 561 | [数组拆分 I](https://github.com/openset/leetcode/tree/master/problems/array-partition-i) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 560 | [和为K的子数组](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 548 | [将数组分割成和相等的子数组](https://github.com/openset/leetcode/tree/master/problems/split-array-with-equal-sum) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 533 | [孤独像素 II](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-ii) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 532 | [数组中的K-diff数对](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
-| 531 | [孤独像素 I](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-i) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 509 | [斐波那契数](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 495 | [提莫攻击](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 485 | [最大连续1的个数](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 457 | [环形数组循环](https://github.com/openset/leetcode/tree/master/problems/circular-array-loop) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 448 | [找到所有数组中消失的数字](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 442 | [数组中重复的数据](https://github.com/openset/leetcode/tree/master/problems/find-all-duplicates-in-an-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 414 | [第三大的数](https://github.com/openset/leetcode/tree/master/problems/third-maximum-number) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1-duplicates-allowed) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
-| 380 | [常数时间插入、删除和获取随机元素](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 370 | [区间加法](https://github.com/openset/leetcode/tree/master/problems/range-addition) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 289 | [生命游戏](https://github.com/openset/leetcode/tree/master/problems/game-of-life) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 287 | [寻找重复数](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 283 | [移动零](https://github.com/openset/leetcode/tree/master/problems/move-zeroes) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
-| 280 | [摆动排序](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 277 | [搜寻名人](https://github.com/openset/leetcode/tree/master/problems/find-the-celebrity) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 268 | [缺失数字](https://github.com/openset/leetcode/tree/master/problems/missing-number) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
-| 259 | [较小的三数之和](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 245 | [最短单词距离 III](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-iii) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 243 | [最短单词距离](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 238 | [除自身以外数组的乘积](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 229 | [求众数 II](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 228 | [汇总区间](https://github.com/openset/leetcode/tree/master/problems/summary-ranges) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 219 | [存在重复元素 II](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
-| 217 | [存在重复元素](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
-| 216 | [组合总和 III](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 209 | [长度最小的子数组](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 189 | [旋转数组](https://github.com/openset/leetcode/tree/master/problems/rotate-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 169 | [多数元素](https://github.com/openset/leetcode/tree/master/problems/majority-element) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Easy |
-| 167 | [两数之和 II - 输入有序数组](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
-| 163 | [缺失的区间](https://github.com/openset/leetcode/tree/master/problems/missing-ranges) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 162 | [寻找峰值](https://github.com/openset/leetcode/tree/master/problems/find-peak-element) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 154 | [寻找旋转排序数组中的最小值 II](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
-| 153 | [寻找旋转排序数组中的最小值](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 152 | [乘积最大子序列](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 128 | [最长连续序列](https://github.com/openset/leetcode/tree/master/problems/longest-consecutive-sequence) | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
-| 126 | [单词接龙 II](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 123 | [买卖股票的最佳时机 III](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 122 | [买卖股票的最佳时机 II](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-ii) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 121 | [买卖股票的最佳时机](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 120 | [三角形最小路径和](https://github.com/openset/leetcode/tree/master/problems/triangle) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 119 | [杨辉三角 II](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 118 | [杨辉三角](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 106 | [从中序与后序遍历序列构造二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 105 | [从前序与中序遍历序列构造二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 90 | [子集 II](https://github.com/openset/leetcode/tree/master/problems/subsets-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 88 | [合并两个有序数组](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
-| 85 | [最大矩形](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 84 | [柱状图中最大的矩形](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
-| 81 | [搜索旋转排序数组 II](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 80 | [删除排序数组中的重复项 II](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 79 | [单词搜索](https://github.com/openset/leetcode/tree/master/problems/word-search) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 78 | [子集](https://github.com/openset/leetcode/tree/master/problems/subsets) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 75 | [颜色分类](https://github.com/openset/leetcode/tree/master/problems/sort-colors) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 74 | [搜索二维矩阵](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 73 | [矩阵置零](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 66 | [加一](https://github.com/openset/leetcode/tree/master/problems/plus-one) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 64 | [最小路径和](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 63 | [不同路径 II](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 62 | [不同路径](https://github.com/openset/leetcode/tree/master/problems/unique-paths) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 59 | [螺旋矩阵 II](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 57 | [插入区间](https://github.com/openset/leetcode/tree/master/problems/insert-interval) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
-| 56 | [合并区间](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 55 | [跳跃游戏](https://github.com/openset/leetcode/tree/master/problems/jump-game) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 54 | [螺旋矩阵](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 53 | [最大子序和](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 48 | [旋转图像](https://github.com/openset/leetcode/tree/master/problems/rotate-image) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 45 | [跳跃游戏 II](https://github.com/openset/leetcode/tree/master/problems/jump-game-ii) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
-| 42 | [接雨水](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Hard |
-| 41 | [缺失的第一个正数](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
-| 40 | [组合总和 II](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 39 | [组合总和](https://github.com/openset/leetcode/tree/master/problems/combination-sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 35 | [搜索插入位置](https://github.com/openset/leetcode/tree/master/problems/search-insert-position) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
-| 34 | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/openset/leetcode/tree/master/problems/find-first-and-last-position-of-element-in-sorted-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 33 | [搜索旋转排序数组](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 31 | [下一个排列](https://github.com/openset/leetcode/tree/master/problems/next-permutation) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 27 | [移除元素](https://github.com/openset/leetcode/tree/master/problems/remove-element) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
-| 26 | [删除排序数组中的重复项](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
-| 18 | [四数之和](https://github.com/openset/leetcode/tree/master/problems/4sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 16 | [最接近的三数之和](https://github.com/openset/leetcode/tree/master/problems/3sum-closest) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 15 | [三数之和](https://github.com/openset/leetcode/tree/master/problems/3sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 11 | [盛最多水的容器](https://github.com/openset/leetcode/tree/master/problems/container-with-most-water) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 4 | [寻找两个有序数组的中位数](https://github.com/openset/leetcode/tree/master/problems/median-of-two-sorted-arrays) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Hard |
-| 1 | [两数之和](https://github.com/openset/leetcode/tree/master/problems/two-sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
+| 1304 | [和为零的N个唯一整数](../../problems/find-n-unique-integers-sum-up-to-zero) | [[数组](../array/README.md)]  | Easy |
+| 1300 | [转变数组后最接近目标值的数组和](../../problems/sum-of-mutated-array-closest-to-target) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1299 | [将每个元素替换为右侧最大元素](../../problems/replace-elements-with-greatest-element-on-right-side) | [[数组](../array/README.md)]  | Easy |
+| 1296 | [划分数组为连续数字的集合](../../problems/divide-array-in-sets-of-k-consecutive-numbers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1295 | [统计位数为偶数的数字](../../problems/find-numbers-with-even-number-of-digits) | [[数组](../array/README.md)]  | Easy |
+| 1292 | [元素和小于等于阈值的正方形的最大边长](../../problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1287 | [有序数组中出现次数超过25%的元素](../../problems/element-appearing-more-than-25-in-sorted-array) | [[数组](../array/README.md)]  | Easy |
+| 1277 | [统计全为 1 的正方形子矩阵](../../problems/count-square-submatrices-with-all-ones) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1275 | [找出井字棋的获胜者](../../problems/find-winner-on-a-tic-tac-toe-game) | [[数组](../array/README.md)]  | Easy |
+| 1267 | [统计参与通信的服务器](../../problems/count-servers-that-communicate) | [[图](../graph/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1266 | [访问所有点的最小时间](../../problems/minimum-time-visiting-all-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1260 | [二维网格迁移](../../problems/shift-2d-grid) | [[数组](../array/README.md)]  | Easy |
+| 1252 | [奇数值单元格的数目](../../problems/cells-with-odd-values-in-a-matrix) | [[数组](../array/README.md)]  | Easy |
+| 1243 | [数组变换](../../problems/array-transformation) 🔒 | [[数组](../array/README.md)]  | Easy |
+| 1233 | [删除子文件夹](../../problems/remove-sub-folders-from-the-filesystem) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1232 | [缀点成线](../../problems/check-if-it-is-a-straight-line) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1222 | [可以攻击国王的皇后](../../problems/queens-that-can-attack-the-king) | [[数组](../array/README.md)]  | Medium |
+| 1217 | [玩筹码](../../problems/play-with-chips) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1208 | [尽可能使字符串相等](../../problems/get-equal-substrings-within-budget) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 1202 | [交换字符串中的元素](../../problems/smallest-string-with-swaps) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1200 | [最小绝对差](../../problems/minimum-absolute-difference) | [[数组](../array/README.md)]  | Easy |
+| 1185 | [一周中的第几天](../../problems/day-of-the-week) | [[数组](../array/README.md)]  | Easy |
+| 1184 | [公交站间的距离](../../problems/distance-between-bus-stops) | [[数组](../array/README.md)]  | Easy |
+| 1177 | [构建回文串检测](../../problems/can-make-palindrome-from-substring) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1176 | [健身计划评估](../../problems/diet-plan-performance) 🔒 | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Easy |
+| 1170 | [比较字符串最小字母出现频次](../../problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1169 | [查询无效交易](../../problems/invalid-transactions) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1160 | [拼写单词](../../problems/find-words-that-can-be-formed-by-characters) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 1157 | [子数组中占绝大多数的元素](../../problems/online-majority-element-in-subarray) | [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 1152 | [用户网站访问行为分析](../../problems/analyze-user-website-visit-pattern) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1151 | [最少交换次数来组合所有的 1](../../problems/minimum-swaps-to-group-all-1s-together) 🔒 | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 1150 | [检查一个数是否在数组中占绝大多数](../../problems/check-if-a-number-is-majority-element-in-a-sorted-array) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 1146 | [快照数组](../../problems/snapshot-array) | [[数组](../array/README.md)]  | Medium |
+| 1144 | [递减元素使数组呈锯齿状](../../problems/decrease-elements-to-make-array-zigzag) | [[数组](../array/README.md)]  | Medium |
+| 1133 | [最大唯一数](../../problems/largest-unique-number) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 1128 | [等价多米诺骨牌对的数量](../../problems/number-of-equivalent-domino-pairs) | [[数组](../array/README.md)]  | Easy |
+| 1122 | [数组的相对排序](../../problems/relative-sort-array) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1109 | [航班预订统计](../../problems/corporate-flight-bookings) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1099 | [小于 K 的两数之和](../../problems/two-sum-less-than-k) 🔒 | [[数组](../array/README.md)]  | Easy |
+| 1089 | [复写零](../../problems/duplicate-zeros) | [[数组](../array/README.md)]  | Easy |
+| 1086 | [前五科的均分](../../problems/high-five) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 1085 | [最小元素各数位之和](../../problems/sum-of-digits-in-the-minimum-number) 🔒 | [[数组](../array/README.md)]  | Easy |
+| 1074 | [元素和为目标值的子矩阵数量](../../problems/number-of-submatrices-that-sum-to-target) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
+| 1064 | [不动点](../../problems/fixed-point) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 1053 | [交换一次的先前排列](../../problems/previous-permutation-with-one-swap) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1052 | [爱生气的书店老板](../../problems/grumpy-bookstore-owner) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 1051 | [高度检查器](../../problems/height-checker) | [[数组](../array/README.md)]  | Easy |
+| 1040 | [移动石子直到连续 II](../../problems/moving-stones-until-consecutive-ii) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 1035 | [不相交的线](../../problems/uncrossed-lines) | [[数组](../array/README.md)]  | Medium |
+| 1031 | [两个非重叠子数组的最大和](../../problems/maximum-sum-of-two-non-overlapping-subarrays) | [[数组](../array/README.md)]  | Medium |
+| 1018 | [可被 5 整除的二进制前缀](../../problems/binary-prefix-divisible-by-5) | [[数组](../array/README.md)]  | Easy |
+| 1014 | [最佳观光组合](../../problems/best-sightseeing-pair) | [[数组](../array/README.md)]  | Medium |
+| 1013 | [将数组分成和相等的三个部分](../../problems/partition-array-into-three-parts-with-equal-sum) | [[数组](../array/README.md)]  | Easy |
+| 1011 | [在 D 天内送达包裹的能力](../../problems/capacity-to-ship-packages-within-d-days) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1010 | [总持续时间可被 60 整除的歌曲](../../problems/pairs-of-songs-with-total-durations-divisible-by-60) | [[数组](../array/README.md)]  | Easy |
+| 1007 | [行相等的最少多米诺旋转](../../problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1002 | [查找常用字符](../../problems/find-common-characters) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 999 | [车的可用捕获量](../../problems/available-captures-for-rook) | [[数组](../array/README.md)]  | Easy |
+| 989 | [数组形式的整数加法](../../problems/add-to-array-form-of-integer) | [[数组](../array/README.md)]  | Easy |
+| 985 | [查询后的偶数和](../../problems/sum-of-even-numbers-after-queries) | [[数组](../array/README.md)]  | Easy |
+| 978 | [最长湍流子数组](../../problems/longest-turbulent-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 977 | [有序数组的平方](../../problems/squares-of-a-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 974 | [和可被 K 整除的子数组](../../problems/subarray-sums-divisible-by-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 969 | [煎饼排序](../../problems/pancake-sorting) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 962 | [最大宽度坡](../../problems/maximum-width-ramp) | [[数组](../array/README.md)]  | Medium |
+| 954 | [二倍数对数组](../../problems/array-of-doubled-pairs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 950 | [按递增顺序显示卡牌](../../problems/reveal-cards-in-increasing-order) | [[数组](../array/README.md)]  | Medium |
+| 945 | [使数组唯一的最小增量](../../problems/minimum-increment-to-make-array-unique) | [[数组](../array/README.md)]  | Medium |
+| 941 | [有效的山脉数组](../../problems/valid-mountain-array) | [[数组](../array/README.md)]  | Easy |
+| 926 | [将字符串翻转到单调递增](../../problems/flip-string-to-monotone-increasing) | [[数组](../array/README.md)]  | Medium |
+| 922 | [按奇偶排序数组 II](../../problems/sort-array-by-parity-ii) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
+| 918 | [环形子数组的最大和](../../problems/maximum-sum-circular-subarray) | [[数组](../array/README.md)]  | Medium |
+| 915 | [分割数组](../../problems/partition-array-into-disjoint-intervals) | [[数组](../array/README.md)]  | Medium |
+| 914 | [卡牌分组](../../problems/x-of-a-kind-in-a-deck-of-cards) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 907 | [子数组的最小值之和](../../problems/sum-of-subarray-minimums) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Medium |
+| 905 | [按奇偶排序数组](../../problems/sort-array-by-parity) | [[数组](../array/README.md)]  | Easy |
+| 900 | [RLE 迭代器](../../problems/rle-iterator) | [[数组](../array/README.md)]  | Medium |
+| 896 | [单调数列](../../problems/monotonic-array) | [[数组](../array/README.md)]  | Easy |
+| 891 | [子序列宽度之和](../../problems/sum-of-subsequence-widths) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 888 | [公平的糖果交换](../../problems/fair-candy-swap) | [[数组](../array/README.md)]  | Easy |
+| 873 | [最长的斐波那契子序列的长度](../../problems/length-of-longest-fibonacci-subsequence) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 870 | [优势洗牌](../../problems/advantage-shuffle) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 867 | [转置矩阵](../../problems/transpose-matrix) | [[数组](../array/README.md)]  | Easy |
+| 849 | [到最近的人的最大距离](../../problems/maximize-distance-to-closest-person) | [[数组](../array/README.md)]  | Easy |
+| 840 | [矩阵中的幻方](../../problems/magic-squares-in-grid) | [[数组](../array/README.md)]  | Easy |
+| 835 | [图像重叠](../../problems/image-overlap) | [[数组](../array/README.md)]  | Medium |
+| 832 | [翻转图像](../../problems/flipping-an-image) | [[数组](../array/README.md)]  | Easy |
+| 830 | [较大分组的位置](../../problems/positions-of-large-groups) | [[数组](../array/README.md)]  | Easy |
+| 825 | [适龄的朋友](../../problems/friends-of-appropriate-ages) | [[数组](../array/README.md)]  | Medium |
+| 795 | [区间子数组个数](../../problems/number-of-subarrays-with-bounded-maximum) | [[数组](../array/README.md)]  | Medium |
+| 792 | [匹配子序列的单词数](../../problems/number-of-matching-subsequences) | [[数组](../array/README.md)]  | Medium |
+| 782 | [变为棋盘](../../problems/transform-to-chessboard) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 775 | [全局倒置与局部倒置](../../problems/global-and-local-inversions) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 769 | [最多能完成排序的块](../../problems/max-chunks-to-make-sorted) | [[数组](../array/README.md)]  | Medium |
+| 768 | [最多能完成排序的块 II](../../problems/max-chunks-to-make-sorted-ii) | [[数组](../array/README.md)]  | Hard |
+| 766 | [托普利茨矩阵](../../problems/toeplitz-matrix) | [[数组](../array/README.md)]  | Easy |
+| 755 | [倒水](../../problems/pour-water) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 747 | [至少是其他数字两倍的最大数](../../problems/largest-number-at-least-twice-of-others) | [[数组](../array/README.md)]  | Easy |
+| 746 | [使用最小花费爬楼梯](../../problems/min-cost-climbing-stairs) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 729 | [我的日程安排表 I](../../problems/my-calendar-i) | [[数组](../array/README.md)]  | Medium |
+| 724 | [寻找数组的中心索引](../../problems/find-pivot-index) | [[数组](../array/README.md)]  | Easy |
+| 723 | [粉碎糖果](../../problems/candy-crush) 🔒 | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 719 | [找出第 k 小的距离对](../../problems/find-k-th-smallest-pair-distance) | [[堆](../heap/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 718 | [最长重复子数组](../../problems/maximum-length-of-repeated-subarray) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 717 | [1比特与2比特字符](../../problems/1-bit-and-2-bit-characters) | [[数组](../array/README.md)]  | Easy |
+| 714 | [买卖股票的最佳时机含手续费](../../problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 713 | [乘积小于K的子数组](../../problems/subarray-product-less-than-k) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 697 | [数组的度](../../problems/degree-of-an-array) | [[数组](../array/README.md)]  | Easy |
+| 695 | [岛屿的最大面积](../../problems/max-area-of-island) | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
+| 689 | [三个无重叠子数组的最大和](../../problems/maximum-sum-of-3-non-overlapping-subarrays) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 674 | [最长连续递增序列](../../problems/longest-continuous-increasing-subsequence) | [[数组](../array/README.md)]  | Easy |
+| 670 | [最大交换](../../problems/maximum-swap) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 667 | [优美的排列 II](../../problems/beautiful-arrangement-ii) | [[数组](../array/README.md)]  | Medium |
+| 665 | [非递减数列](../../problems/non-decreasing-array) | [[数组](../array/README.md)]  | Easy |
+| 661 | [图片平滑器](../../problems/image-smoother) | [[数组](../array/README.md)]  | Easy |
+| 644 | [最大平均子段和 II](../../problems/maximum-average-subarray-ii) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 643 | [子数组最大平均数 I](../../problems/maximum-average-subarray-i) | [[数组](../array/README.md)]  | Easy |
+| 628 | [三个数的最大乘积](../../problems/maximum-product-of-three-numbers) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 624 | [数组列表中的最大距离](../../problems/maximum-distance-in-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 621 | [任务调度器](../../problems/task-scheduler) | [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)]  | Medium |
+| 611 | [有效三角形的个数](../../problems/valid-triangle-number) | [[数组](../array/README.md)]  | Medium |
+| 605 | [种花问题](../../problems/can-place-flowers) | [[数组](../array/README.md)]  | Easy |
+| 581 | [最短无序连续子数组](../../problems/shortest-unsorted-continuous-subarray) | [[数组](../array/README.md)]  | Easy |
+| 566 | [重塑矩阵](../../problems/reshape-the-matrix) | [[数组](../array/README.md)]  | Easy |
+| 565 | [数组嵌套](../../problems/array-nesting) | [[数组](../array/README.md)]  | Medium |
+| 562 | [矩阵中最长的连续1线段](../../problems/longest-line-of-consecutive-one-in-matrix) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 561 | [数组拆分 I](../../problems/array-partition-i) | [[数组](../array/README.md)]  | Easy |
+| 560 | [和为K的子数组](../../problems/subarray-sum-equals-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 548 | [将数组分割成和相等的子数组](../../problems/split-array-with-equal-sum) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 533 | [孤独像素 II](../../problems/lonely-pixel-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
+| 532 | [数组中的K-diff数对](../../problems/k-diff-pairs-in-an-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 531 | [孤独像素 I](../../problems/lonely-pixel-i) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
+| 509 | [斐波那契数](../../problems/fibonacci-number) | [[数组](../array/README.md)]  | Easy |
+| 495 | [提莫攻击](../../problems/teemo-attacking) | [[数组](../array/README.md)]  | Medium |
+| 485 | [最大连续1的个数](../../problems/max-consecutive-ones) | [[数组](../array/README.md)]  | Easy |
+| 457 | [环形数组循环](../../problems/circular-array-loop) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 448 | [找到所有数组中消失的数字](../../problems/find-all-numbers-disappeared-in-an-array) | [[数组](../array/README.md)]  | Easy |
+| 442 | [数组中重复的数据](../../problems/find-all-duplicates-in-an-array) | [[数组](../array/README.md)]  | Medium |
+| 414 | [第三大的数](../../problems/third-maximum-number) | [[数组](../array/README.md)]  | Easy |
+| 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](../../problems/insert-delete-getrandom-o1-duplicates-allowed) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
+| 380 | [常数时间插入、删除和获取随机元素](../../problems/insert-delete-getrandom-o1) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 370 | [区间加法](../../problems/range-addition) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 289 | [生命游戏](../../problems/game-of-life) | [[数组](../array/README.md)]  | Medium |
+| 287 | [寻找重复数](../../problems/find-the-duplicate-number) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 283 | [移动零](../../problems/move-zeroes) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 280 | [摆动排序](../../problems/wiggle-sort) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 277 | [搜寻名人](../../problems/find-the-celebrity) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 268 | [缺失数字](../../problems/missing-number) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 259 | [较小的三数之和](../../problems/3sum-smaller) 🔒 | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 245 | [最短单词距离 III](../../problems/shortest-word-distance-iii) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 243 | [最短单词距离](../../problems/shortest-word-distance) 🔒 | [[数组](../array/README.md)]  | Easy |
+| 238 | [除自身以外数组的乘积](../../problems/product-of-array-except-self) | [[数组](../array/README.md)]  | Medium |
+| 229 | [求众数 II](../../problems/majority-element-ii) | [[数组](../array/README.md)]  | Medium |
+| 228 | [汇总区间](../../problems/summary-ranges) | [[数组](../array/README.md)]  | Medium |
+| 219 | [存在重复元素 II](../../problems/contains-duplicate-ii) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 217 | [存在重复元素](../../problems/contains-duplicate) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 216 | [组合总和 III](../../problems/combination-sum-iii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 209 | [长度最小的子数组](../../problems/minimum-size-subarray-sum) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 189 | [旋转数组](../../problems/rotate-array) | [[数组](../array/README.md)]  | Easy |
+| 169 | [多数元素](../../problems/majority-element) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Easy |
+| 167 | [两数之和 II - 输入有序数组](../../problems/two-sum-ii-input-array-is-sorted) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 163 | [缺失的区间](../../problems/missing-ranges) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 162 | [寻找峰值](../../problems/find-peak-element) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 154 | [寻找旋转排序数组中的最小值 II](../../problems/find-minimum-in-rotated-sorted-array-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 153 | [寻找旋转排序数组中的最小值](../../problems/find-minimum-in-rotated-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 152 | [乘积最大子序列](../../problems/maximum-product-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 128 | [最长连续序列](../../problems/longest-consecutive-sequence) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)]  | Hard |
+| 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 123 | [买卖股票的最佳时机 III](../../problems/best-time-to-buy-and-sell-stock-iii) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 122 | [买卖股票的最佳时机 II](../../problems/best-time-to-buy-and-sell-stock-ii) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
+| 121 | [买卖股票的最佳时机](../../problems/best-time-to-buy-and-sell-stock) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 120 | [三角形最小路径和](../../problems/triangle) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 119 | [杨辉三角 II](../../problems/pascals-triangle-ii) | [[数组](../array/README.md)]  | Easy |
+| 118 | [杨辉三角](../../problems/pascals-triangle) | [[数组](../array/README.md)]  | Easy |
+| 106 | [从中序与后序遍历序列构造二叉树](../../problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
+| 105 | [从前序与中序遍历序列构造二叉树](../../problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
+| 90 | [子集 II](../../problems/subsets-ii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 88 | [合并两个有序数组](../../problems/merge-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 85 | [最大矩形](../../problems/maximal-rectangle) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 84 | [柱状图中最大的矩形](../../problems/largest-rectangle-in-histogram) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Hard |
+| 81 | [搜索旋转排序数组 II](../../problems/search-in-rotated-sorted-array-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 80 | [删除排序数组中的重复项 II](../../problems/remove-duplicates-from-sorted-array-ii) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 79 | [单词搜索](../../problems/word-search) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 78 | [子集](../../problems/subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 75 | [颜色分类](../../problems/sort-colors) | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 74 | [搜索二维矩阵](../../problems/search-a-2d-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 73 | [矩阵置零](../../problems/set-matrix-zeroes) | [[数组](../array/README.md)]  | Medium |
+| 66 | [加一](../../problems/plus-one) | [[数组](../array/README.md)]  | Easy |
+| 64 | [最小路径和](../../problems/minimum-path-sum) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 63 | [不同路径 II](../../problems/unique-paths-ii) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 62 | [不同路径](../../problems/unique-paths) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 59 | [螺旋矩阵 II](../../problems/spiral-matrix-ii) | [[数组](../array/README.md)]  | Medium |
+| 57 | [插入区间](../../problems/insert-interval) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Hard |
+| 56 | [合并区间](../../problems/merge-intervals) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 55 | [跳跃游戏](../../problems/jump-game) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 54 | [螺旋矩阵](../../problems/spiral-matrix) | [[数组](../array/README.md)]  | Medium |
+| 53 | [最大子序和](../../problems/maximum-subarray) | [[数组](../array/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 48 | [旋转图像](../../problems/rotate-image) | [[数组](../array/README.md)]  | Medium |
+| 45 | [跳跃游戏 II](../../problems/jump-game-ii) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Hard |
+| 42 | [接雨水](../../problems/trapping-rain-water) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Hard |
+| 41 | [缺失的第一个正数](../../problems/first-missing-positive) | [[数组](../array/README.md)]  | Hard |
+| 40 | [组合总和 II](../../problems/combination-sum-ii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 39 | [组合总和](../../problems/combination-sum) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 35 | [搜索插入位置](../../problems/search-insert-position) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 34 | [在排序数组中查找元素的第一个和最后一个位置](../../problems/find-first-and-last-position-of-element-in-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 33 | [搜索旋转排序数组](../../problems/search-in-rotated-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 31 | [下一个排列](../../problems/next-permutation) | [[数组](../array/README.md)]  | Medium |
+| 27 | [移除元素](../../problems/remove-element) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 26 | [删除排序数组中的重复项](../../problems/remove-duplicates-from-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 18 | [四数之和](../../problems/4sum) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 16 | [最接近的三数之和](../../problems/3sum-closest) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 15 | [三数之和](../../problems/3sum) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 11 | [盛最多水的容器](../../problems/container-with-most-water) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 4 | [寻找两个有序数组的中位数](../../problems/median-of-two-sorted-arrays) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
+| 1 | [两数之和](../../problems/two-sum) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |

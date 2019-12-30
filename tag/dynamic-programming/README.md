@@ -5,181 +5,182 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 动态规划
+## [话题分类](../README.md) > 动态规划
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1289 | [下降路径最小和  II](https://github.com/openset/leetcode/tree/master/problems/minimum-falling-path-sum-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1278 | [分割回文串 III](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-iii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1277 | [统计全为 1 的正方形子矩阵](https://github.com/openset/leetcode/tree/master/problems/count-square-submatrices-with-all-ones) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1273 | [删除树节点](https://github.com/openset/leetcode/tree/master/problems/delete-tree-nodes) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1269 | [停在原地的方案数](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1262 | [可被三整除的最大和](https://github.com/openset/leetcode/tree/master/problems/greatest-sum-divisible-by-three) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1259 | [不相交的握手](https://github.com/openset/leetcode/tree/master/problems/handshakes-that-dont-cross) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1246 | [删除回文子数组](https://github.com/openset/leetcode/tree/master/problems/palindrome-removal) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1240 | [铺瓷砖](https://github.com/openset/leetcode/tree/master/problems/tiling-a-rectangle-with-the-fewest-squares) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 1235 | [规划兼职工作](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1230 | [抛掷硬币](https://github.com/openset/leetcode/tree/master/problems/toss-strange-coins) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1227 | [飞机座位分配概率](https://github.com/openset/leetcode/tree/master/problems/airplane-seat-assignment-probability) | [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1223 | [掷骰子模拟](https://github.com/openset/leetcode/tree/master/problems/dice-roll-simulation) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1220 | [统计元音字母序列的数目](https://github.com/openset/leetcode/tree/master/problems/count-vowels-permutation) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1218 | [最长定差子序列](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-subsequence-of-given-difference) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1216 | [验证回文字符串 III](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1199 | [建造街区的最短时间](https://github.com/openset/leetcode/tree/master/problems/minimum-time-to-build-blocks) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1191 | [K 次串联后最大子数组之和](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1187 | [使数组严格递增](https://github.com/openset/leetcode/tree/master/problems/make-array-strictly-increasing) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1186 | [删除一次得到子数组最大和](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray-sum-with-one-deletion) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1155 | [掷骰子的N种方法](https://github.com/openset/leetcode/tree/master/problems/number-of-dice-rolls-with-target-sum) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1147 | [段式回文](https://github.com/openset/leetcode/tree/master/problems/longest-chunked-palindrome-decomposition) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1143 | [最长公共子序列](https://github.com/openset/leetcode/tree/master/problems/longest-common-subsequence) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1140 | [石子游戏 II](https://github.com/openset/leetcode/tree/master/problems/stone-game-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1139 | [最大的以 1 为边界的正方形](https://github.com/openset/leetcode/tree/master/problems/largest-1-bordered-square) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1136 | [平行课程](https://github.com/openset/leetcode/tree/master/problems/parallel-courses) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1130 | [叶值的最小代价生成树](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1125 | [最小的必要团队](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1105 | [填充书架](https://github.com/openset/leetcode/tree/master/problems/filling-bookcase-shelves) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1092 | [最短公共超序列](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1074 | [元素和为目标值的子矩阵数量](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
-| 1067 | [范围内的数字计数](https://github.com/openset/leetcode/tree/master/problems/digit-count-in-range) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1066 | [校园自行车分配 II](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 1058 | [最小化舍入误差以满足目标](https://github.com/openset/leetcode/tree/master/problems/minimize-rounding-error-to-meet-target) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1055 | [形成字符串的最短路径](https://github.com/openset/leetcode/tree/master/problems/shortest-way-to-form-string) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1049 | [最后一块石头的重量 II](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1048 | [最长字符串链](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1039 | [多边形三角剖分的最低得分](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1027 | [最长等差数列](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1025 | [除数博弈](https://github.com/openset/leetcode/tree/master/problems/divisor-game) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 1024 | [视频拼接](https://github.com/openset/leetcode/tree/master/problems/video-stitching) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1012 | [至少有 1 位重复的数字](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1000 | [合并石头的最低成本](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 983 | [最低票价](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 982 | [按位与为零的三元组](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 978 | [最长湍流子数组](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
-| 975 | [奇偶跳](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]  | Hard |
-| 968 | [监控二叉树](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 967 | [连续差相同的数字](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 964 | [表示数字的最少运算符](https://github.com/openset/leetcode/tree/master/problems/least-operators-to-express-number) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 960 | [删列造序 III](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-iii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 956 | [最高的广告牌](https://github.com/openset/leetcode/tree/master/problems/tallest-billboard) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 943 | [最短超级串](https://github.com/openset/leetcode/tree/master/problems/find-the-shortest-superstring) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 940 | [不同的子序列 II](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 935 | [骑士拨号器](https://github.com/openset/leetcode/tree/master/problems/knight-dialer) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 931 | [下降路径最小和](https://github.com/openset/leetcode/tree/master/problems/minimum-falling-path-sum) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 920 | [播放列表的数量](https://github.com/openset/leetcode/tree/master/problems/number-of-music-playlists) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 903 | [DI 序列的有效排列](https://github.com/openset/leetcode/tree/master/problems/valid-permutations-for-di-sequence) | [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 902 | [最大为 N 的数字组合](https://github.com/openset/leetcode/tree/master/problems/numbers-at-most-n-given-digit-set) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 898 | [子数组按位或操作](https://github.com/openset/leetcode/tree/master/problems/bitwise-ors-of-subarrays) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 887 | [鸡蛋掉落](https://github.com/openset/leetcode/tree/master/problems/super-egg-drop) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 879 | [盈利计划](https://github.com/openset/leetcode/tree/master/problems/profitable-schemes) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 877 | [石子游戏](https://github.com/openset/leetcode/tree/master/problems/stone-game) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 873 | [最长的斐波那契子序列的长度](https://github.com/openset/leetcode/tree/master/problems/length-of-longest-fibonacci-subsequence) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 871 | [最低加油次数](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-refueling-stops) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 847 | [访问所有节点的最短路径](https://github.com/openset/leetcode/tree/master/problems/shortest-path-visiting-all-nodes) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 838 | [推多米诺](https://github.com/openset/leetcode/tree/master/problems/push-dominoes) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 837 | [新21点](https://github.com/openset/leetcode/tree/master/problems/new-21-game) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 818 | [赛车](https://github.com/openset/leetcode/tree/master/problems/race-car) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 813 | [最大平均值和的分组](https://github.com/openset/leetcode/tree/master/problems/largest-sum-of-averages) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 808 | [分汤](https://github.com/openset/leetcode/tree/master/problems/soup-servings) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 801 | [使序列递增的最小交换次数](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-sequences-increasing) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 790 | [多米诺和托米诺平铺](https://github.com/openset/leetcode/tree/master/problems/domino-and-tromino-tiling) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 787 | [K 站中转内最便宜的航班](https://github.com/openset/leetcode/tree/master/problems/cheapest-flights-within-k-stops) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 764 | [最大加号标志](https://github.com/openset/leetcode/tree/master/problems/largest-plus-sign) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 750 | [角矩形的数量](https://github.com/openset/leetcode/tree/master/problems/number-of-corner-rectangles) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 746 | [使用最小花费爬楼梯](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 741 | [摘樱桃](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 740 | [删除与获得点数](https://github.com/openset/leetcode/tree/master/problems/delete-and-earn) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 730 | [统计不同回文子字符串](https://github.com/openset/leetcode/tree/master/problems/count-different-palindromic-subsequences) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 727 | [最小窗口子序列](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
-| 718 | [最长重复子数组](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-repeated-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 714 | [买卖股票的最佳时机含手续费](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 712 | [两个字符串的最小ASCII删除和](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 698 | [划分为k个相等的子集](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets) | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 691 | [贴纸拼词](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 689 | [三个无重叠子数组的最大和](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-3-non-overlapping-subarrays) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 688 | [“马”在棋盘上的概率](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 673 | [最长递增子序列的个数](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 664 | [奇怪的打印机](https://github.com/openset/leetcode/tree/master/problems/strange-printer) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 656 | [金币路径](https://github.com/openset/leetcode/tree/master/problems/coin-path) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 651 | [4键键盘](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 650 | [只有两个键的键盘](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 647 | [回文子串](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 646 | [最长数对链](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 639 | [解码方法 2](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 638 | [大礼包](https://github.com/openset/leetcode/tree/master/problems/shopping-offers) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 629 | [K个逆序对数组](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 600 | [不含连续1的非负整数](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 576 | [出界的路径数](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 568 | [最大休假天数](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 552 | [学生出勤记录 II](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 546 | [移除盒子](https://github.com/openset/leetcode/tree/master/problems/remove-boxes) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 523 | [连续的子数组和](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 517 | [超级洗衣机](https://github.com/openset/leetcode/tree/master/problems/super-washing-machines) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 516 | [最长回文子序列](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 514 | [自由之路](https://github.com/openset/leetcode/tree/master/problems/freedom-trail) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 494 | [目标和](https://github.com/openset/leetcode/tree/master/problems/target-sum) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 486 | [预测赢家](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 474 | [一和零](https://github.com/openset/leetcode/tree/master/problems/ones-and-zeroes) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 472 | [连接词](https://github.com/openset/leetcode/tree/master/problems/concatenated-words) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 471 | [编码最短长度的字符串](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 467 | [环绕字符串中唯一的子字符串](https://github.com/openset/leetcode/tree/master/problems/unique-substrings-in-wraparound-string) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 466 | [统计重复个数](https://github.com/openset/leetcode/tree/master/problems/count-the-repetitions) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 464 | [我能赢吗](https://github.com/openset/leetcode/tree/master/problems/can-i-win) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 446 | [等差数列划分 II - 子序列](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices-ii-subsequence) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 418 | [屏幕可显示句子的数量](https://github.com/openset/leetcode/tree/master/problems/sentence-screen-fitting) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 416 | [分割等和子集](https://github.com/openset/leetcode/tree/master/problems/partition-equal-subset-sum) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 413 | [等差数列划分](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 410 | [分割数组的最大值](https://github.com/openset/leetcode/tree/master/problems/split-array-largest-sum) | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 403 | [青蛙过河](https://github.com/openset/leetcode/tree/master/problems/frog-jump) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 392 | [判断子序列](https://github.com/openset/leetcode/tree/master/problems/is-subsequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 377 | [组合总和 Ⅳ](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 376 | [摆动序列](https://github.com/openset/leetcode/tree/master/problems/wiggle-subsequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 375 | [猜数字大小 II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 368 | [最大整除子集](https://github.com/openset/leetcode/tree/master/problems/largest-divisible-subset) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 363 | [矩形区域不超过 K 的最大数值和](https://github.com/openset/leetcode/tree/master/problems/max-sum-of-rectangle-no-larger-than-k) | [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 361 | [轰炸敌人](https://github.com/openset/leetcode/tree/master/problems/bomb-enemy) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 357 | [计算各个位数不同的数字个数](https://github.com/openset/leetcode/tree/master/problems/count-numbers-with-unique-digits) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 354 | [俄罗斯套娃信封问题](https://github.com/openset/leetcode/tree/master/problems/russian-doll-envelopes) | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 351 | [安卓系统手势解锁](https://github.com/openset/leetcode/tree/master/problems/android-unlock-patterns) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 343 | [整数拆分](https://github.com/openset/leetcode/tree/master/problems/integer-break) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 338 | [比特位计数](https://github.com/openset/leetcode/tree/master/problems/counting-bits) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 322 | [零钱兑换](https://github.com/openset/leetcode/tree/master/problems/coin-change) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 321 | [拼接最大数](https://github.com/openset/leetcode/tree/master/problems/create-maximum-number) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 312 | [戳气球](https://github.com/openset/leetcode/tree/master/problems/burst-balloons) | [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 309 | [最佳买卖股票时机含冷冻期](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 304 | [二维区域和检索 - 矩阵不可变](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-immutable) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 303 | [区域和检索 - 数组不可变](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 300 | [最长上升子序列](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 279 | [完全平方数](https://github.com/openset/leetcode/tree/master/problems/perfect-squares) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 276 | [栅栏涂色](https://github.com/openset/leetcode/tree/master/problems/paint-fence) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 265 | [粉刷房子 II](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 264 | [丑数 II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 256 | [粉刷房子](https://github.com/openset/leetcode/tree/master/problems/paint-house) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 221 | [最大正方形](https://github.com/openset/leetcode/tree/master/problems/maximal-square) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 213 | [打家劫舍 II](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 198 | [打家劫舍](https://github.com/openset/leetcode/tree/master/problems/house-robber) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 188 | [买卖股票的最佳时机 IV](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iv) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 174 | [地下城游戏](https://github.com/openset/leetcode/tree/master/problems/dungeon-game) | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 152 | [乘积最大子序列](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 140 | [单词拆分 II](https://github.com/openset/leetcode/tree/master/problems/word-break-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 139 | [单词拆分](https://github.com/openset/leetcode/tree/master/problems/word-break) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 132 | [分割回文串 II](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 123 | [买卖股票的最佳时机 III](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 121 | [买卖股票的最佳时机](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 120 | [三角形最小路径和](https://github.com/openset/leetcode/tree/master/problems/triangle) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 115 | [不同的子序列](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 97 | [交错字符串](https://github.com/openset/leetcode/tree/master/problems/interleaving-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 96 | [不同的二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 95 | [不同的二叉搜索树 II](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 91 | [解码方法](https://github.com/openset/leetcode/tree/master/problems/decode-ways) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 87 | [扰乱字符串](https://github.com/openset/leetcode/tree/master/problems/scramble-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 85 | [最大矩形](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 72 | [编辑距离](https://github.com/openset/leetcode/tree/master/problems/edit-distance) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 70 | [爬楼梯](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 64 | [最小路径和](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 63 | [不同路径 II](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 62 | [不同路径](https://github.com/openset/leetcode/tree/master/problems/unique-paths) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 53 | [最大子序和](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 44 | [通配符匹配](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 32 | [最长有效括号](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 10 | [正则表达式匹配](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 5 | [最长回文子串](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
+| 1301 | [最大得分的路径数目](../../problems/number-of-paths-with-max-score) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1289 | [下降路径最小和  II](../../problems/minimum-falling-path-sum-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1278 | [分割回文串 III](../../problems/palindrome-partitioning-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1277 | [统计全为 1 的正方形子矩阵](../../problems/count-square-submatrices-with-all-ones) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1273 | [删除树节点](../../problems/delete-tree-nodes) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1269 | [停在原地的方案数](../../problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1262 | [可被三整除的最大和](../../problems/greatest-sum-divisible-by-three) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1259 | [不相交的握手](../../problems/handshakes-that-dont-cross) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1246 | [删除回文子数组](../../problems/palindrome-removal) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1240 | [铺瓷砖](../../problems/tiling-a-rectangle-with-the-fewest-squares) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1235 | [规划兼职工作](../../problems/maximum-profit-in-job-scheduling) | [[排序](../sort/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1230 | [抛掷硬币](../../problems/toss-strange-coins) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1227 | [飞机座位分配概率](../../problems/airplane-seat-assignment-probability) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1223 | [掷骰子模拟](../../problems/dice-roll-simulation) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1220 | [统计元音字母序列的数目](../../problems/count-vowels-permutation) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1218 | [最长定差子序列](../../problems/longest-arithmetic-subsequence-of-given-difference) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1216 | [验证回文字符串 III](../../problems/valid-palindrome-iii) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1199 | [建造街区的最短时间](../../problems/minimum-time-to-build-blocks) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1191 | [K 次串联后最大子数组之和](../../problems/k-concatenation-maximum-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1187 | [使数组严格递增](../../problems/make-array-strictly-increasing) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1186 | [删除一次得到子数组最大和](../../problems/maximum-subarray-sum-with-one-deletion) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1155 | [掷骰子的N种方法](../../problems/number-of-dice-rolls-with-target-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1147 | [段式回文](../../problems/longest-chunked-palindrome-decomposition) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1143 | [最长公共子序列](../../problems/longest-common-subsequence) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1140 | [石子游戏 II](../../problems/stone-game-ii) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1139 | [最大的以 1 为边界的正方形](../../problems/largest-1-bordered-square) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1136 | [平行课程](../../problems/parallel-courses) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1130 | [叶值的最小代价生成树](../../problems/minimum-cost-tree-from-leaf-values) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1125 | [最小的必要团队](../../problems/smallest-sufficient-team) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1105 | [填充书架](../../problems/filling-bookcase-shelves) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1092 | [最短公共超序列](../../problems/shortest-common-supersequence) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1074 | [元素和为目标值的子矩阵数量](../../problems/number-of-submatrices-that-sum-to-target) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
+| 1067 | [范围内的数字计数](../../problems/digit-count-in-range) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1066 | [校园自行车分配 II](../../problems/campus-bikes-ii) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1058 | [最小化舍入误差以满足目标](../../problems/minimize-rounding-error-to-meet-target) 🔒 | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1055 | [形成字符串的最短路径](../../problems/shortest-way-to-form-string) 🔒 | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1049 | [最后一块石头的重量 II](../../problems/last-stone-weight-ii) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1048 | [最长字符串链](../../problems/longest-string-chain) | [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1039 | [多边形三角剖分的最低得分](../../problems/minimum-score-triangulation-of-polygon) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1027 | [最长等差数列](../../problems/longest-arithmetic-sequence) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1025 | [除数博弈](../../problems/divisor-game) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 1024 | [视频拼接](../../problems/video-stitching) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1012 | [至少有 1 位重复的数字](../../problems/numbers-with-repeated-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1000 | [合并石头的最低成本](../../problems/minimum-cost-to-merge-stones) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 983 | [最低票价](../../problems/minimum-cost-for-tickets) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 982 | [按位与为零的三元组](../../problems/triples-with-bitwise-and-equal-to-zero) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 978 | [最长湍流子数组](../../problems/longest-turbulent-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 975 | [奇偶跳](../../problems/odd-even-jump) | [[栈](../stack/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
+| 968 | [监控二叉树](../../problems/binary-tree-cameras) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 967 | [连续差相同的数字](../../problems/numbers-with-same-consecutive-differences) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 964 | [表示数字的最少运算符](../../problems/least-operators-to-express-number) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 960 | [删列造序 III](../../problems/delete-columns-to-make-sorted-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 956 | [最高的广告牌](../../problems/tallest-billboard) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 943 | [最短超级串](../../problems/find-the-shortest-superstring) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 940 | [不同的子序列 II](../../problems/distinct-subsequences-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 935 | [骑士拨号器](../../problems/knight-dialer) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 931 | [下降路径最小和](../../problems/minimum-falling-path-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 920 | [播放列表的数量](../../problems/number-of-music-playlists) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 903 | [DI 序列的有效排列](../../problems/valid-permutations-for-di-sequence) | [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 902 | [最大为 N 的数字组合](../../problems/numbers-at-most-n-given-digit-set) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 898 | [子数组按位或操作](../../problems/bitwise-ors-of-subarrays) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 887 | [鸡蛋掉落](../../problems/super-egg-drop) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 879 | [盈利计划](../../problems/profitable-schemes) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 877 | [石子游戏](../../problems/stone-game) | [[极小化极大](../minimax/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 873 | [最长的斐波那契子序列的长度](../../problems/length-of-longest-fibonacci-subsequence) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 871 | [最低加油次数](../../problems/minimum-number-of-refueling-stops) | [[堆](../heap/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 847 | [访问所有节点的最短路径](../../problems/shortest-path-visiting-all-nodes) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 838 | [推多米诺](../../problems/push-dominoes) | [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 837 | [新21点](../../problems/new-21-game) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 818 | [赛车](../../problems/race-car) | [[堆](../heap/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 813 | [最大平均值和的分组](../../problems/largest-sum-of-averages) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 808 | [分汤](../../problems/soup-servings) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 801 | [使序列递增的最小交换次数](../../problems/minimum-swaps-to-make-sequences-increasing) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 790 | [多米诺和托米诺平铺](../../problems/domino-and-tromino-tiling) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 787 | [K 站中转内最便宜的航班](../../problems/cheapest-flights-within-k-stops) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 764 | [最大加号标志](../../problems/largest-plus-sign) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 750 | [角矩形的数量](../../problems/number-of-corner-rectangles) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 746 | [使用最小花费爬楼梯](../../problems/min-cost-climbing-stairs) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 741 | [摘樱桃](../../problems/cherry-pickup) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 740 | [删除与获得点数](../../problems/delete-and-earn) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 730 | [统计不同回文子字符串](../../problems/count-different-palindromic-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 727 | [最小窗口子序列](../../problems/minimum-window-subsequence) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
+| 718 | [最长重复子数组](../../problems/maximum-length-of-repeated-subarray) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 714 | [买卖股票的最佳时机含手续费](../../problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 712 | [两个字符串的最小ASCII删除和](../../problems/minimum-ascii-delete-sum-for-two-strings) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 698 | [划分为k个相等的子集](../../problems/partition-to-k-equal-sum-subsets) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 691 | [贴纸拼词](../../problems/stickers-to-spell-word) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 689 | [三个无重叠子数组的最大和](../../problems/maximum-sum-of-3-non-overlapping-subarrays) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 688 | [“马”在棋盘上的概率](../../problems/knight-probability-in-chessboard) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 673 | [最长递增子序列的个数](../../problems/number-of-longest-increasing-subsequence) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 664 | [奇怪的打印机](../../problems/strange-printer) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 656 | [金币路径](../../problems/coin-path) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 651 | [4键键盘](../../problems/4-keys-keyboard) 🔒 | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 650 | [只有两个键的键盘](../../problems/2-keys-keyboard) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 647 | [回文子串](../../problems/palindromic-substrings) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 646 | [最长数对链](../../problems/maximum-length-of-pair-chain) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 639 | [解码方法 2](../../problems/decode-ways-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 638 | [大礼包](../../problems/shopping-offers) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 629 | [K个逆序对数组](../../problems/k-inverse-pairs-array) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 600 | [不含连续1的非负整数](../../problems/non-negative-integers-without-consecutive-ones) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 576 | [出界的路径数](../../problems/out-of-boundary-paths) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 568 | [最大休假天数](../../problems/maximum-vacation-days) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 552 | [学生出勤记录 II](../../problems/student-attendance-record-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 546 | [移除盒子](../../problems/remove-boxes) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 523 | [连续的子数组和](../../problems/continuous-subarray-sum) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 517 | [超级洗衣机](../../problems/super-washing-machines) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 516 | [最长回文子序列](../../problems/longest-palindromic-subsequence) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 514 | [自由之路](../../problems/freedom-trail) | [[深度优先搜索](../depth-first-search/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 494 | [目标和](../../problems/target-sum) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 486 | [预测赢家](../../problems/predict-the-winner) | [[极小化极大](../minimax/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 474 | [一和零](../../problems/ones-and-zeroes) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 472 | [连接词](../../problems/concatenated-words) | [[深度优先搜索](../depth-first-search/README.md)] [[字典树](../trie/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 471 | [编码最短长度的字符串](../../problems/encode-string-with-shortest-length) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 467 | [环绕字符串中唯一的子字符串](../../problems/unique-substrings-in-wraparound-string) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 466 | [统计重复个数](../../problems/count-the-repetitions) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 464 | [我能赢吗](../../problems/can-i-win) | [[极小化极大](../minimax/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 446 | [等差数列划分 II - 子序列](../../problems/arithmetic-slices-ii-subsequence) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 418 | [屏幕可显示句子的数量](../../problems/sentence-screen-fitting) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 416 | [分割等和子集](../../problems/partition-equal-subset-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 413 | [等差数列划分](../../problems/arithmetic-slices) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 410 | [分割数组的最大值](../../problems/split-array-largest-sum) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 403 | [青蛙过河](../../problems/frog-jump) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 392 | [判断子序列](../../problems/is-subsequence) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 377 | [组合总和 Ⅳ](../../problems/combination-sum-iv) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 376 | [摆动序列](../../problems/wiggle-subsequence) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 375 | [猜数字大小 II](../../problems/guess-number-higher-or-lower-ii) | [[极小化极大](../minimax/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 368 | [最大整除子集](../../problems/largest-divisible-subset) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 363 | [矩形区域不超过 K 的最大数值和](../../problems/max-sum-of-rectangle-no-larger-than-k) | [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 361 | [轰炸敌人](../../problems/bomb-enemy) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 357 | [计算各个位数不同的数字个数](../../problems/count-numbers-with-unique-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 354 | [俄罗斯套娃信封问题](../../problems/russian-doll-envelopes) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 351 | [安卓系统手势解锁](../../problems/android-unlock-patterns) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 343 | [整数拆分](../../problems/integer-break) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 338 | [比特位计数](../../problems/counting-bits) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 322 | [零钱兑换](../../problems/coin-change) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 321 | [拼接最大数](../../problems/create-maximum-number) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 312 | [戳气球](../../problems/burst-balloons) | [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 309 | [最佳买卖股票时机含冷冻期](../../problems/best-time-to-buy-and-sell-stock-with-cooldown) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 304 | [二维区域和检索 - 矩阵不可变](../../problems/range-sum-query-2d-immutable) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 303 | [区域和检索 - 数组不可变](../../problems/range-sum-query-immutable) | [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 300 | [最长上升子序列](../../problems/longest-increasing-subsequence) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 279 | [完全平方数](../../problems/perfect-squares) | [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 276 | [栅栏涂色](../../problems/paint-fence) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 265 | [粉刷房子 II](../../problems/paint-house-ii) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 264 | [丑数 II](../../problems/ugly-number-ii) | [[堆](../heap/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 256 | [粉刷房子](../../problems/paint-house) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 221 | [最大正方形](../../problems/maximal-square) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 213 | [打家劫舍 II](../../problems/house-robber-ii) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 198 | [打家劫舍](../../problems/house-robber) | [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 188 | [买卖股票的最佳时机 IV](../../problems/best-time-to-buy-and-sell-stock-iv) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 174 | [地下城游戏](../../problems/dungeon-game) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 152 | [乘积最大子序列](../../problems/maximum-product-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 140 | [单词拆分 II](../../problems/word-break-ii) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 139 | [单词拆分](../../problems/word-break) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 132 | [分割回文串 II](../../problems/palindrome-partitioning-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 123 | [买卖股票的最佳时机 III](../../problems/best-time-to-buy-and-sell-stock-iii) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 121 | [买卖股票的最佳时机](../../problems/best-time-to-buy-and-sell-stock) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 120 | [三角形最小路径和](../../problems/triangle) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 115 | [不同的子序列](../../problems/distinct-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 97 | [交错字符串](../../problems/interleaving-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 96 | [不同的二叉搜索树](../../problems/unique-binary-search-trees) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 95 | [不同的二叉搜索树 II](../../problems/unique-binary-search-trees-ii) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 91 | [解码方法](../../problems/decode-ways) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 87 | [扰乱字符串](../../problems/scramble-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 85 | [最大矩形](../../problems/maximal-rectangle) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 72 | [编辑距离](../../problems/edit-distance) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 70 | [爬楼梯](../../problems/climbing-stairs) | [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 64 | [最小路径和](../../problems/minimum-path-sum) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 63 | [不同路径 II](../../problems/unique-paths-ii) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 62 | [不同路径](../../problems/unique-paths) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 53 | [最大子序和](../../problems/maximum-subarray) | [[数组](../array/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 32 | [最长有效括号](../../problems/longest-valid-parentheses) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 10 | [正则表达式匹配](../../problems/regular-expression-matching) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 5 | [最长回文子串](../../problems/longest-palindromic-substring) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold "Maximum Side Length of a Square with Sum Less than or Equal to Threshold")
+[< Previous](../maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold "Maximum Side Length of a Square with Sum Less than or Equal to Threshold")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../weather-type-in-each-country "Weather Type in Each Country")
 
 ## [1293. Shortest Path in a Grid with Obstacles Elimination (Hard)](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination "网格中的最短路径")
 
@@ -62,7 +62,7 @@ k = 1
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

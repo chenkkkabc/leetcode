@@ -5,130 +5,132 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 树
+## [话题分类](../README.md) > 树
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1261 | [在受污染的二叉树中查找元素](https://github.com/openset/leetcode/tree/master/problems/find-elements-in-a-contaminated-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 1257 | [最小公共区域](https://github.com/openset/leetcode/tree/master/problems/smallest-common-region) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 1245 | [树的直径](https://github.com/openset/leetcode/tree/master/problems/tree-diameter) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
-| 1145 | [二叉树着色游戏](https://github.com/openset/leetcode/tree/master/problems/binary-tree-coloring-game) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 1130 | [叶值的最小代价生成树](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1123 | [最深叶节点的最近公共祖先](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 1120 | [子树的最大平均值](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subtree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 1110 | [删点成林](https://github.com/openset/leetcode/tree/master/problems/delete-nodes-and-return-forest) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 1104 | [二叉树寻路](https://github.com/openset/leetcode/tree/master/problems/path-in-zigzag-labelled-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 1028 | [从先序遍历还原二叉树](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Hard |
-| 1026 | [节点与其祖先之间的最大差值](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 1022 | [从根到叶的二进制数之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 1008 | [先序遍历构造二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 998 | [最大二叉树 II](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 993 | [二叉树的堂兄弟节点](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
-| 988 | [从叶结点开始的最小字符串](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 987 | [二叉树的垂序遍历](https://github.com/openset/leetcode/tree/master/problems/vertical-order-traversal-of-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 979 | [在二叉树中分配硬币](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 971 | [翻转二叉树以匹配先序遍历](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 968 | [监控二叉树](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 965 | [单值二叉树](https://github.com/openset/leetcode/tree/master/problems/univalued-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 958 | [二叉树的完全性检验](https://github.com/openset/leetcode/tree/master/problems/check-completeness-of-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 951 | [翻转等价二叉树](https://github.com/openset/leetcode/tree/master/problems/flip-equivalent-binary-trees) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 938 | [二叉搜索树的范围和](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
-| 919 | [完全二叉树插入器](https://github.com/openset/leetcode/tree/master/problems/complete-binary-tree-inserter) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 897 | [递增顺序查找树](https://github.com/openset/leetcode/tree/master/problems/increasing-order-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Easy |
-| 894 | [所有可能的满二叉树](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Medium |
-| 889 | [根据前序和后序遍历构造二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 872 | [叶子相似的树](https://github.com/openset/leetcode/tree/master/problems/leaf-similar-trees) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Easy |
-| 865 | [具有所有最深结点的最小子树](https://github.com/openset/leetcode/tree/master/problems/smallest-subtree-with-all-the-deepest-nodes) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 863 | [二叉树中所有距离为 K 的结点](https://github.com/openset/leetcode/tree/master/problems/all-nodes-distance-k-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
-| 834 | [树中距离之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-distances-in-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Hard |
-| 814 | [二叉树剪枝](https://github.com/openset/leetcode/tree/master/problems/binary-tree-pruning) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 783 | [二叉搜索树结点最小距离](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
-| 776 | [拆分二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/split-bst) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Medium |
-| 742 | [二叉树最近的叶节点](https://github.com/openset/leetcode/tree/master/problems/closest-leaf-in-a-binary-tree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 701 | [二叉搜索树中的插入操作](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 700 | [二叉搜索树中的搜索](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 687 | [最长同值路径](https://github.com/openset/leetcode/tree/master/problems/longest-univalue-path) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
-| 685 | [冗余连接 II](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Hard |
-| 684 | [冗余连接](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
-| 671 | [二叉树中第二小的节点](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 669 | [修剪二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 666 | [路径和 IV](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 663 | [均匀树划分](https://github.com/openset/leetcode/tree/master/problems/equal-tree-partition) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 662 | [二叉树最大宽度](https://github.com/openset/leetcode/tree/master/problems/maximum-width-of-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 655 | [输出二叉树](https://github.com/openset/leetcode/tree/master/problems/print-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 654 | [最大二叉树](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 653 | [两数之和 IV - 输入 BST](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 652 | [寻找重复的子树](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 637 | [二叉树的层平均值](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 623 | [在二叉树中增加一行](https://github.com/openset/leetcode/tree/master/problems/add-one-row-to-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 617 | [合并二叉树](https://github.com/openset/leetcode/tree/master/problems/merge-two-binary-trees) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 606 | [根据二叉树创建字符串](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 590 | [N叉树的后序遍历](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 589 | [N叉树的前序遍历](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 582 | [杀死进程](https://github.com/openset/leetcode/tree/master/problems/kill-process) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]  | Medium |
-| 572 | [另一个树的子树](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 563 | [二叉树的坡度](https://github.com/openset/leetcode/tree/master/problems/binary-tree-tilt) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 559 | [N叉树的最大深度](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
-| 549 | [二叉树中最长的连续序列](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence-ii) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 545 | [二叉树的边界](https://github.com/openset/leetcode/tree/master/problems/boundary-of-binary-tree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 543 | [二叉树的直径](https://github.com/openset/leetcode/tree/master/problems/diameter-of-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 538 | [把二叉搜索树转换为累加树](https://github.com/openset/leetcode/tree/master/problems/convert-bst-to-greater-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 536 | [从字符串生成二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-string) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 530 | [二叉搜索树的最小绝对差](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 515 | [在每个树行中找最大值](https://github.com/openset/leetcode/tree/master/problems/find-largest-value-in-each-tree-row) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
-| 513 | [找树左下角的值](https://github.com/openset/leetcode/tree/master/problems/find-bottom-left-tree-value) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
-| 510 | [二叉搜索树中的中序后继 II](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 508 | [出现次数最多的子树元素和](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 501 | [二叉搜索树中的众数](https://github.com/openset/leetcode/tree/master/problems/find-mode-in-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 450 | [删除二叉搜索树中的节点](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-bst) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 449 | [序列化和反序列化二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 437 | [路径总和 III](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 431 | [将 N 叉树编码为二叉树](https://github.com/openset/leetcode/tree/master/problems/encode-n-ary-tree-to-binary-tree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Hard |
-| 429 | [N叉树的层序遍历](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
-| 428 | [序列化和反序列化 N 叉树](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-n-ary-tree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Hard |
-| 426 | [将二叉搜索树转化为排序的双向链表](https://github.com/openset/leetcode/tree/master/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Medium |
-| 404 | [左叶子之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-left-leaves) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 366 | [寻找完全二叉树的叶子节点](https://github.com/openset/leetcode/tree/master/problems/find-leaves-of-binary-tree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 337 | [打家劫舍 III](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 333 | [最大 BST 子树](https://github.com/openset/leetcode/tree/master/problems/largest-bst-subtree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 298 | [二叉树最长连续序列](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 297 | [二叉树的序列化与反序列化](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Hard |
-| 285 | [二叉搜索树中的顺序后继](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 272 | [最接近的二叉搜索树值 II](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Hard |
-| 270 | [最接近的二叉搜索树值](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
-| 257 | [二叉树的所有路径](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Easy |
-| 255 | [验证前序遍历序列二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 250 | [统计同值子树](https://github.com/openset/leetcode/tree/master/problems/count-univalue-subtrees) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 236 | [二叉树的最近公共祖先](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 235 | [二叉搜索树的最近公共祖先](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 230 | [二叉搜索树中第K小的元素](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 226 | [翻转二叉树](https://github.com/openset/leetcode/tree/master/problems/invert-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 222 | [完全二叉树的节点个数](https://github.com/openset/leetcode/tree/master/problems/count-complete-tree-nodes) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 199 | [二叉树的右视图](https://github.com/openset/leetcode/tree/master/problems/binary-tree-right-side-view) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
-| 173 | [二叉搜索树迭代器](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Medium |
-| 156 | [上下翻转二叉树](https://github.com/openset/leetcode/tree/master/problems/binary-tree-upside-down) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 145 | [二叉树的后序遍历](https://github.com/openset/leetcode/tree/master/problems/binary-tree-postorder-traversal) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Hard |
-| 144 | [二叉树的前序遍历](https://github.com/openset/leetcode/tree/master/problems/binary-tree-preorder-traversal) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 129 | [求根到叶子节点数字之和](https://github.com/openset/leetcode/tree/master/problems/sum-root-to-leaf-numbers) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 124 | [二叉树中的最大路径和](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Hard |
-| 117 | [填充每个节点的下一个右侧节点指针 II](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 116 | [填充每个节点的下一个右侧节点指针](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 114 | [二叉树展开为链表](https://github.com/openset/leetcode/tree/master/problems/flatten-binary-tree-to-linked-list) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 113 | [路径总和 II](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 112 | [路径总和](https://github.com/openset/leetcode/tree/master/problems/path-sum) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Easy |
-| 111 | [二叉树的最小深度](https://github.com/openset/leetcode/tree/master/problems/minimum-depth-of-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
-| 110 | [平衡二叉树](https://github.com/openset/leetcode/tree/master/problems/balanced-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Easy |
-| 108 | [将有序数组转换为二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-array-to-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Easy |
-| 107 | [二叉树的层次遍历 II](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
-| 106 | [从中序与后序遍历序列构造二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 105 | [从前序与中序遍历序列构造二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 104 | [二叉树的最大深度](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Easy |
-| 103 | [二叉树的锯齿形层次遍历](https://github.com/openset/leetcode/tree/master/problems/binary-tree-zigzag-level-order-traversal) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
-| 102 | [二叉树的层次遍历](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
-| 101 | [对称二叉树](https://github.com/openset/leetcode/tree/master/problems/symmetric-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
-| 100 | [相同的树](https://github.com/openset/leetcode/tree/master/problems/same-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Easy |
-| 99 | [恢复二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/recover-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Hard |
-| 98 | [验证二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/validate-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
-| 96 | [不同的二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 95 | [不同的二叉搜索树 II](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 94 | [二叉树的中序遍历](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
+| 1305 | [两棵二叉搜索树中的所有元素](../../problems/all-elements-in-two-binary-search-trees) | [[排序](../sort/README.md)] [[树](../tree/README.md)]  | Medium |
+| 1302 | [层数最深叶子节点的和](../../problems/deepest-leaves-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 1261 | [在受污染的二叉树中查找元素](../../problems/find-elements-in-a-contaminated-binary-tree) | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1257 | [最小公共区域](../../problems/smallest-common-region) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 1245 | [树的直径](../../problems/tree-diameter) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1145 | [二叉树着色游戏](../../problems/binary-tree-coloring-game) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 1130 | [叶值的最小代价生成树](../../problems/minimum-cost-tree-from-leaf-values) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1123 | [最深叶节点的最近公共祖先](../../problems/lowest-common-ancestor-of-deepest-leaves) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 1120 | [子树的最大平均值](../../problems/maximum-average-subtree) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 1110 | [删点成林](../../problems/delete-nodes-and-return-forest) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 1104 | [二叉树寻路](../../problems/path-in-zigzag-labelled-binary-tree) | [[树](../tree/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1028 | [从先序遍历还原二叉树](../../problems/recover-a-tree-from-preorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
+| 1026 | [节点与其祖先之间的最大差值](../../problems/maximum-difference-between-node-and-ancestor) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 1022 | [从根到叶的二进制数之和](../../problems/sum-of-root-to-leaf-binary-numbers) | [[树](../tree/README.md)]  | Easy |
+| 1008 | [先序遍历构造二叉树](../../problems/construct-binary-search-tree-from-preorder-traversal) | [[树](../tree/README.md)]  | Medium |
+| 998 | [最大二叉树 II](../../problems/maximum-binary-tree-ii) | [[树](../tree/README.md)]  | Medium |
+| 993 | [二叉树的堂兄弟节点](../../problems/cousins-in-binary-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 988 | [从叶结点开始的最小字符串](../../problems/smallest-string-starting-from-leaf) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 987 | [二叉树的垂序遍历](../../problems/vertical-order-traversal-of-a-binary-tree) | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 979 | [在二叉树中分配硬币](../../problems/distribute-coins-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 971 | [翻转二叉树以匹配先序遍历](../../problems/flip-binary-tree-to-match-preorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 968 | [监控二叉树](../../problems/binary-tree-cameras) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 965 | [单值二叉树](../../problems/univalued-binary-tree) | [[树](../tree/README.md)]  | Easy |
+| 958 | [二叉树的完全性检验](../../problems/check-completeness-of-a-binary-tree) | [[树](../tree/README.md)]  | Medium |
+| 951 | [翻转等价二叉树](../../problems/flip-equivalent-binary-trees) | [[树](../tree/README.md)]  | Medium |
+| 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 919 | [完全二叉树插入器](../../problems/complete-binary-tree-inserter) | [[树](../tree/README.md)]  | Medium |
+| 897 | [递增顺序查找树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 889 | [根据前序和后序遍历构造二叉树](../../problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [[树](../tree/README.md)]  | Medium |
+| 872 | [叶子相似的树](../../problems/leaf-similar-trees) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 865 | [具有所有最深结点的最小子树](../../problems/smallest-subtree-with-all-the-deepest-nodes) | [[树](../tree/README.md)]  | Medium |
+| 863 | [二叉树中所有距离为 K 的结点](../../problems/all-nodes-distance-k-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 834 | [树中距离之和](../../problems/sum-of-distances-in-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
+| 814 | [二叉树剪枝](../../problems/binary-tree-pruning) | [[树](../tree/README.md)]  | Medium |
+| 783 | [二叉搜索树结点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 776 | [拆分二叉搜索树](../../problems/split-bst) 🔒 | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 742 | [二叉树最近的叶节点](../../problems/closest-leaf-in-a-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 701 | [二叉搜索树中的插入操作](../../problems/insert-into-a-binary-search-tree) | [[树](../tree/README.md)]  | Medium |
+| 700 | [二叉搜索树中的搜索](../../problems/search-in-a-binary-search-tree) | [[树](../tree/README.md)]  | Easy |
+| 687 | [最长同值路径](../../problems/longest-univalue-path) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 685 | [冗余连接 II](../../problems/redundant-connection-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
+| 684 | [冗余连接](../../problems/redundant-connection) | [[树](../tree/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 671 | [二叉树中第二小的节点](../../problems/second-minimum-node-in-a-binary-tree) | [[树](../tree/README.md)]  | Easy |
+| 669 | [修剪二叉搜索树](../../problems/trim-a-binary-search-tree) | [[树](../tree/README.md)]  | Easy |
+| 666 | [路径和 IV](../../problems/path-sum-iv) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 663 | [均匀树划分](../../problems/equal-tree-partition) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 662 | [二叉树最大宽度](../../problems/maximum-width-of-binary-tree) | [[树](../tree/README.md)]  | Medium |
+| 655 | [输出二叉树](../../problems/print-binary-tree) | [[树](../tree/README.md)]  | Medium |
+| 654 | [最大二叉树](../../problems/maximum-binary-tree) | [[树](../tree/README.md)]  | Medium |
+| 653 | [两数之和 IV - 输入 BST](../../problems/two-sum-iv-input-is-a-bst) | [[树](../tree/README.md)]  | Easy |
+| 652 | [寻找重复的子树](../../problems/find-duplicate-subtrees) | [[树](../tree/README.md)]  | Medium |
+| 637 | [二叉树的层平均值](../../problems/average-of-levels-in-binary-tree) | [[树](../tree/README.md)]  | Easy |
+| 623 | [在二叉树中增加一行](../../problems/add-one-row-to-tree) | [[树](../tree/README.md)]  | Medium |
+| 617 | [合并二叉树](../../problems/merge-two-binary-trees) | [[树](../tree/README.md)]  | Easy |
+| 606 | [根据二叉树创建字符串](../../problems/construct-string-from-binary-tree) | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 590 | [N叉树的后序遍历](../../problems/n-ary-tree-postorder-traversal) | [[树](../tree/README.md)]  | Easy |
+| 589 | [N叉树的前序遍历](../../problems/n-ary-tree-preorder-traversal) | [[树](../tree/README.md)]  | Easy |
+| 582 | [杀死进程](../../problems/kill-process) 🔒 | [[树](../tree/README.md)] [[队列](../queue/README.md)]  | Medium |
+| 572 | [另一个树的子树](../../problems/subtree-of-another-tree) | [[树](../tree/README.md)]  | Easy |
+| 563 | [二叉树的坡度](../../problems/binary-tree-tilt) | [[树](../tree/README.md)]  | Easy |
+| 559 | [N叉树的最大深度](../../problems/maximum-depth-of-n-ary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 549 | [二叉树中最长的连续序列](../../problems/binary-tree-longest-consecutive-sequence-ii) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 545 | [二叉树的边界](../../problems/boundary-of-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 543 | [二叉树的直径](../../problems/diameter-of-binary-tree) | [[树](../tree/README.md)]  | Easy |
+| 538 | [把二叉搜索树转换为累加树](../../problems/convert-bst-to-greater-tree) | [[树](../tree/README.md)]  | Easy |
+| 536 | [从字符串生成二叉树](../../problems/construct-binary-tree-from-string) 🔒 | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 530 | [二叉搜索树的最小绝对差](../../problems/minimum-absolute-difference-in-bst) | [[树](../tree/README.md)]  | Easy |
+| 515 | [在每个树行中找最大值](../../problems/find-largest-value-in-each-tree-row) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 513 | [找树左下角的值](../../problems/find-bottom-left-tree-value) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 510 | [二叉搜索树中的中序后继 II](../../problems/inorder-successor-in-bst-ii) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 508 | [出现次数最多的子树元素和](../../problems/most-frequent-subtree-sum) | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 501 | [二叉搜索树中的众数](../../problems/find-mode-in-binary-search-tree) | [[树](../tree/README.md)]  | Easy |
+| 450 | [删除二叉搜索树中的节点](../../problems/delete-node-in-a-bst) | [[树](../tree/README.md)]  | Medium |
+| 449 | [序列化和反序列化二叉搜索树](../../problems/serialize-and-deserialize-bst) | [[树](../tree/README.md)]  | Medium |
+| 437 | [路径总和 III](../../problems/path-sum-iii) | [[树](../tree/README.md)]  | Easy |
+| 431 | [将 N 叉树编码为二叉树](../../problems/encode-n-ary-tree-to-binary-tree) 🔒 | [[树](../tree/README.md)]  | Hard |
+| 429 | [N叉树的层序遍历](../../problems/n-ary-tree-level-order-traversal) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 428 | [序列化和反序列化 N 叉树](../../problems/serialize-and-deserialize-n-ary-tree) 🔒 | [[树](../tree/README.md)]  | Hard |
+| 426 | [将二叉搜索树转化为排序的双向链表](../../problems/convert-binary-search-tree-to-sorted-doubly-linked-list) 🔒 | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
+| 404 | [左叶子之和](../../problems/sum-of-left-leaves) | [[树](../tree/README.md)]  | Easy |
+| 366 | [寻找完全二叉树的叶子节点](../../problems/find-leaves-of-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 337 | [打家劫舍 III](../../problems/house-robber-iii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 333 | [最大 BST 子树](../../problems/largest-bst-subtree) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 298 | [二叉树最长连续序列](../../problems/binary-tree-longest-consecutive-sequence) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 297 | [二叉树的序列化与反序列化](../../problems/serialize-and-deserialize-binary-tree) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Hard |
+| 285 | [二叉搜索树中的顺序后继](../../problems/inorder-successor-in-bst) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 272 | [最接近的二叉搜索树值 II](../../problems/closest-binary-search-tree-value-ii) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Hard |
+| 270 | [最接近的二叉搜索树值](../../problems/closest-binary-search-tree-value) 🔒 | [[树](../tree/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 257 | [二叉树的所有路径](../../problems/binary-tree-paths) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 255 | [验证前序遍历序列二叉搜索树](../../problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
+| 250 | [统计同值子树](../../problems/count-univalue-subtrees) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 236 | [二叉树的最近公共祖先](../../problems/lowest-common-ancestor-of-a-binary-tree) | [[树](../tree/README.md)]  | Medium |
+| 235 | [二叉搜索树的最近公共祖先](../../problems/lowest-common-ancestor-of-a-binary-search-tree) | [[树](../tree/README.md)]  | Easy |
+| 230 | [二叉搜索树中第K小的元素](../../problems/kth-smallest-element-in-a-bst) | [[树](../tree/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 226 | [翻转二叉树](../../problems/invert-binary-tree) | [[树](../tree/README.md)]  | Easy |
+| 222 | [完全二叉树的节点个数](../../problems/count-complete-tree-nodes) | [[树](../tree/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 199 | [二叉树的右视图](../../problems/binary-tree-right-side-view) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
+| 156 | [上下翻转二叉树](../../problems/binary-tree-upside-down) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 145 | [二叉树的后序遍历](../../problems/binary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Hard |
+| 144 | [二叉树的前序遍历](../../problems/binary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
+| 129 | [求根到叶子节点数字之和](../../problems/sum-root-to-leaf-numbers) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
+| 117 | [填充每个节点的下一个右侧节点指针 II](../../problems/populating-next-right-pointers-in-each-node-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 114 | [二叉树展开为链表](../../problems/flatten-binary-tree-to-linked-list) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 113 | [路径总和 II](../../problems/path-sum-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 112 | [路径总和](../../problems/path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 111 | [二叉树的最小深度](../../problems/minimum-depth-of-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 110 | [平衡二叉树](../../problems/balanced-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 108 | [将有序数组转换为二叉搜索树](../../problems/convert-sorted-array-to-binary-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 107 | [二叉树的层次遍历 II](../../problems/binary-tree-level-order-traversal-ii) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 106 | [从中序与后序遍历序列构造二叉树](../../problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
+| 105 | [从前序与中序遍历序列构造二叉树](../../problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
+| 104 | [二叉树的最大深度](../../problems/maximum-depth-of-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 103 | [二叉树的锯齿形层次遍历](../../problems/binary-tree-zigzag-level-order-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 102 | [二叉树的层次遍历](../../problems/binary-tree-level-order-traversal) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 101 | [对称二叉树](../../problems/symmetric-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 100 | [相同的树](../../problems/same-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 99 | [恢复二叉搜索树](../../problems/recover-binary-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
+| 98 | [验证二叉搜索树](../../problems/validate-binary-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 96 | [不同的二叉搜索树](../../problems/unique-binary-search-trees) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 95 | [不同的二叉搜索树 II](../../problems/unique-binary-search-trees-ii) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 94 | [二叉树的中序遍历](../../problems/binary-tree-inorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |

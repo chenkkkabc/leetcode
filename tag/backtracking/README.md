@@ -5,59 +5,60 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 回溯算法
+## [话题分类](../README.md) > 回溯算法
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1291 | [顺次数](https://github.com/openset/leetcode/tree/master/problems/sequential-digits) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 1286 | [字母组合迭代器](https://github.com/openset/leetcode/tree/master/problems/iterator-for-combination) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 1258 | [近义词句子](https://github.com/openset/leetcode/tree/master/problems/synonymous-sentences) 🔒 | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 1240 | [铺瓷砖](https://github.com/openset/leetcode/tree/master/problems/tiling-a-rectangle-with-the-fewest-squares) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 1239 | [串联字符串的最大长度](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 1219 | [黄金矿工](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-gold) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 1215 | [步进数](https://github.com/openset/leetcode/tree/master/problems/stepping-numbers) 🔒 | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 1088 | [易混淆数 II](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 1087 | [字母切换](https://github.com/openset/leetcode/tree/master/problems/brace-expansion) 🔒 | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 1079 | [活字印刷](https://github.com/openset/leetcode/tree/master/problems/letter-tile-possibilities) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 1066 | [校园自行车分配 II](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 996 | [正方形数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 980 | [不同路径 III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 842 | [将数组拆分成斐波那契序列](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 784 | [字母大小写全排列](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Easy |
-| 691 | [贴纸拼词](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 526 | [优美的排列](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 425 | [单词方块](https://github.com/openset/leetcode/tree/master/problems/word-squares) 🔒 | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 411 | [最短特异单词缩写](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation) 🔒 | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 401 | [二进制手表](https://github.com/openset/leetcode/tree/master/problems/binary-watch) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Easy |
-| 357 | [计算各个位数不同的数字个数](https://github.com/openset/leetcode/tree/master/problems/count-numbers-with-unique-digits) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 351 | [安卓系统手势解锁](https://github.com/openset/leetcode/tree/master/problems/android-unlock-patterns) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 320 | [列举单词的全部缩写](https://github.com/openset/leetcode/tree/master/problems/generalized-abbreviation) 🔒 | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 306 | [累加数](https://github.com/openset/leetcode/tree/master/problems/additive-number) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 294 | [翻转游戏 II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) 🔒 | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 291 | [单词规律 II](https://github.com/openset/leetcode/tree/master/problems/word-pattern-ii) 🔒 | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 267 | [回文排列 II](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii) 🔒 | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 254 | [因子的组合](https://github.com/openset/leetcode/tree/master/problems/factor-combinations) 🔒 | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 216 | [组合总和 III](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 212 | [单词搜索 II](https://github.com/openset/leetcode/tree/master/problems/word-search-ii) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 211 | [添加与搜索单词 - 数据结构设计](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 140 | [单词拆分 II](https://github.com/openset/leetcode/tree/master/problems/word-break-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 131 | [分割回文串](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 126 | [单词接龙 II](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 93 | [复原IP地址](https://github.com/openset/leetcode/tree/master/problems/restore-ip-addresses) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 90 | [子集 II](https://github.com/openset/leetcode/tree/master/problems/subsets-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 89 | [格雷编码](https://github.com/openset/leetcode/tree/master/problems/gray-code) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 79 | [单词搜索](https://github.com/openset/leetcode/tree/master/problems/word-search) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 78 | [子集](https://github.com/openset/leetcode/tree/master/problems/subsets) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 77 | [组合](https://github.com/openset/leetcode/tree/master/problems/combinations) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 60 | [第k个排列](https://github.com/openset/leetcode/tree/master/problems/permutation-sequence) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 52 | [N皇后 II](https://github.com/openset/leetcode/tree/master/problems/n-queens-ii) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 51 | [N皇后](https://github.com/openset/leetcode/tree/master/problems/n-queens) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 47 | [全排列 II](https://github.com/openset/leetcode/tree/master/problems/permutations-ii) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 46 | [全排列](https://github.com/openset/leetcode/tree/master/problems/permutations) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 44 | [通配符匹配](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 40 | [组合总和 II](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 39 | [组合总和](https://github.com/openset/leetcode/tree/master/problems/combination-sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 37 | [解数独](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 22 | [括号生成](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 17 | [电话号码的字母组合](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 10 | [正则表达式匹配](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
+| 1307 | [口算难题](../../problems/verbal-arithmetic-puzzle) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1291 | [顺次数](../../problems/sequential-digits) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1286 | [字母组合迭代器](../../problems/iterator-for-combination) | [[设计](../design/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1258 | [近义词句子](../../problems/synonymous-sentences) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1240 | [铺瓷砖](../../problems/tiling-a-rectangle-with-the-fewest-squares) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1239 | [串联字符串的最大长度](../../problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1219 | [黄金矿工](../../problems/path-with-maximum-gold) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1215 | [步进数](../../problems/stepping-numbers) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1088 | [易混淆数 II](../../problems/confusing-number-ii) 🔒 | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1087 | [字母切换](../../problems/brace-expansion) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1079 | [活字印刷](../../problems/letter-tile-possibilities) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1066 | [校园自行车分配 II](../../problems/campus-bikes-ii) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 996 | [正方形数组的数目](../../problems/number-of-squareful-arrays) | [[图](../graph/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 980 | [不同路径 III](../../problems/unique-paths-iii) | [[深度优先搜索](../depth-first-search/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 842 | [将数组拆分成斐波那契序列](../../problems/split-array-into-fibonacci-sequence) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 784 | [字母大小写全排列](../../problems/letter-case-permutation) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Easy |
+| 691 | [贴纸拼词](../../problems/stickers-to-spell-word) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 526 | [优美的排列](../../problems/beautiful-arrangement) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 425 | [单词方块](../../problems/word-squares) 🔒 | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 411 | [最短特异单词缩写](../../problems/minimum-unique-word-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 401 | [二进制手表](../../problems/binary-watch) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Easy |
+| 357 | [计算各个位数不同的数字个数](../../problems/count-numbers-with-unique-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 351 | [安卓系统手势解锁](../../problems/android-unlock-patterns) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 320 | [列举单词的全部缩写](../../problems/generalized-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 306 | [累加数](../../problems/additive-number) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 294 | [翻转游戏 II](../../problems/flip-game-ii) 🔒 | [[极小化极大](../minimax/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 291 | [单词规律 II](../../problems/word-pattern-ii) 🔒 | [[回溯算法](../backtracking/README.md)]  | Hard |
+| 267 | [回文排列 II](../../problems/palindrome-permutation-ii) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 254 | [因子的组合](../../problems/factor-combinations) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 216 | [组合总和 III](../../problems/combination-sum-iii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 212 | [单词搜索 II](../../problems/word-search-ii) | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 211 | [添加与搜索单词 - 数据结构设计](../../problems/add-and-search-word-data-structure-design) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 140 | [单词拆分 II](../../problems/word-break-ii) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 131 | [分割回文串](../../problems/palindrome-partitioning) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 93 | [复原IP地址](../../problems/restore-ip-addresses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 90 | [子集 II](../../problems/subsets-ii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 89 | [格雷编码](../../problems/gray-code) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 79 | [单词搜索](../../problems/word-search) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 78 | [子集](../../problems/subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 77 | [组合](../../problems/combinations) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 60 | [第k个排列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 52 | [N皇后 II](../../problems/n-queens-ii) | [[回溯算法](../backtracking/README.md)]  | Hard |
+| 51 | [N皇后](../../problems/n-queens) | [[回溯算法](../backtracking/README.md)]  | Hard |
+| 47 | [全排列 II](../../problems/permutations-ii) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 46 | [全排列](../../problems/permutations) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 40 | [组合总和 II](../../problems/combination-sum-ii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 39 | [组合总和](../../problems/combination-sum) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 37 | [解数独](../../problems/sudoku-solver) | [[哈希表](../hash-table/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 22 | [括号生成](../../problems/generate-parentheses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 10 | [正则表达式匹配](../../problems/regular-expression-matching) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |

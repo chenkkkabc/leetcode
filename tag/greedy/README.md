@@ -5,75 +5,76 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 贪心算法
+## [话题分类](../README.md) > 贪心算法
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1282 | [用户分组](https://github.com/openset/leetcode/tree/master/problems/group-the-people-given-the-group-size-they-belong-to) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 1276 | [不浪费原料的汉堡制作方案](https://github.com/openset/leetcode/tree/master/problems/number-of-burgers-with-no-waste-of-ingredients) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 1253 | [重构 2 行二进制矩阵](https://github.com/openset/leetcode/tree/master/problems/reconstruct-a-2-row-binary-matrix) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 1247 | [交换字符使得字符串相同](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-strings-equal) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 1231 | [分享巧克力](https://github.com/openset/leetcode/tree/master/problems/divide-chocolate) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
-| 1221 | [分割平衡字符串](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 1217 | [玩筹码](https://github.com/openset/leetcode/tree/master/problems/play-with-chips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
-| 1196 | [最多可以买到的苹果数量](https://github.com/openset/leetcode/tree/master/problems/how-many-apples-can-you-put-into-the-basket) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
-| 1167 | [连接棒材的最低费用](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-connect-sticks) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 1111 | [有效括号的嵌套深度](https://github.com/openset/leetcode/tree/master/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 1094 | [拼车](https://github.com/openset/leetcode/tree/master/problems/car-pooling) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 1090 | [受标签影响的最大值](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
-| 1058 | [最小化舍入误差以满足目标](https://github.com/openset/leetcode/tree/master/problems/minimize-rounding-error-to-meet-target) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1057 | [校园自行车分配](https://github.com/openset/leetcode/tree/master/problems/campus-bikes) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]  | Medium |
-| 1055 | [形成字符串的最短路径](https://github.com/openset/leetcode/tree/master/problems/shortest-way-to-form-string) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1053 | [交换一次的先前排列](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1046 | [最后一块石头的重量](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
-| 1029 | [两地调度](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
-| 1007 | [行相等的最少多米诺旋转](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 1005 | [K 次取反后最大化的数组和](https://github.com/openset/leetcode/tree/master/problems/maximize-sum-of-array-after-k-negations) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
-| 995 | [K 连续位的最小翻转次数](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
-| 991 | [坏了的计算器](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 984 | [不含 AAA 或 BBB 的字符串](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 955 | [删列造序 II](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-ii) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 948 | [令牌放置](https://github.com/openset/leetcode/tree/master/problems/bag-of-tokens) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 944 | [删列造序](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
-| 936 | [戳印序列](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
-| 927 | [三等分](https://github.com/openset/leetcode/tree/master/problems/three-equal-parts) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
-| 921 | [使括号有效的最少添加](https://github.com/openset/leetcode/tree/master/problems/minimum-add-to-make-parentheses-valid) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 910 | [最小差值 II](https://github.com/openset/leetcode/tree/master/problems/smallest-range-ii) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 881 | [救生艇](https://github.com/openset/leetcode/tree/master/problems/boats-to-save-people) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 874 | [模拟行走机器人](https://github.com/openset/leetcode/tree/master/problems/walking-robot-simulation) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
-| 870 | [优势洗牌](https://github.com/openset/leetcode/tree/master/problems/advantage-shuffle) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 861 | [翻转矩阵后的得分](https://github.com/openset/leetcode/tree/master/problems/score-after-flipping-matrix) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 860 | [柠檬水找零](https://github.com/openset/leetcode/tree/master/problems/lemonade-change) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
-| 842 | [将数组拆分成斐波那契序列](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
-| 767 | [重构字符串](https://github.com/openset/leetcode/tree/master/problems/reorganize-string) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 765 | [情侣牵手](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Hard |
-| 763 | [划分字母区间](https://github.com/openset/leetcode/tree/master/problems/partition-labels) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 759 | [员工空闲时间](https://github.com/openset/leetcode/tree/master/problems/employee-free-time) 🔒 | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Hard |
-| 757 | [ 设置交集大小至少为2](https://github.com/openset/leetcode/tree/master/problems/set-intersection-size-at-least-two) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Hard |
-| 738 | [单调递增的数字](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 714 | [买卖股票的最佳时机含手续费](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 659 | [分割数组为连续子序列](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 651 | [4键键盘](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 649 | [Dota2 参议院](https://github.com/openset/leetcode/tree/master/problems/dota2-senate) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 630 | [课程表 III](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Hard |
-| 621 | [任务调度器](https://github.com/openset/leetcode/tree/master/problems/task-scheduler) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 502 | [IPO](https://github.com/openset/leetcode/tree/master/problems/ipo) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Hard |
-| 484 | [寻找排列](https://github.com/openset/leetcode/tree/master/problems/find-permutation) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 455 | [分发饼干](https://github.com/openset/leetcode/tree/master/problems/assign-cookies) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
-| 452 | [用最少数量的箭引爆气球](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-arrows-to-burst-balloons) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 435 | [无重叠区间](https://github.com/openset/leetcode/tree/master/problems/non-overlapping-intervals) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 406 | [根据身高重建队列](https://github.com/openset/leetcode/tree/master/problems/queue-reconstruction-by-height) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 402 | [移掉K位数字](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 392 | [判断子序列](https://github.com/openset/leetcode/tree/master/problems/is-subsequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
-| 376 | [摆动序列](https://github.com/openset/leetcode/tree/master/problems/wiggle-subsequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 358 | [K 距离间隔重排字符串](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart) 🔒 | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
-| 330 | [按要求补齐数组](https://github.com/openset/leetcode/tree/master/problems/patching-array) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Hard |
-| 321 | [拼接最大数](https://github.com/openset/leetcode/tree/master/problems/create-maximum-number) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 316 | [去除重复字母](https://github.com/openset/leetcode/tree/master/problems/remove-duplicate-letters) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Hard |
-| 253 | [会议室 II](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii) 🔒 | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]  | Medium |
-| 135 | [分发糖果](https://github.com/openset/leetcode/tree/master/problems/candy) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Hard |
-| 134 | [加油站](https://github.com/openset/leetcode/tree/master/problems/gas-station) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
-| 122 | [买卖股票的最佳时机 II](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-ii) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 55 | [跳跃游戏](https://github.com/openset/leetcode/tree/master/problems/jump-game) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
-| 45 | [跳跃游戏 II](https://github.com/openset/leetcode/tree/master/problems/jump-game-ii) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
-| 44 | [通配符匹配](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
+| 1296 | [划分数组为连续数字的集合](../../problems/divide-array-in-sets-of-k-consecutive-numbers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1282 | [用户分组](../../problems/group-the-people-given-the-group-size-they-belong-to) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1276 | [不浪费原料的汉堡制作方案](../../problems/number-of-burgers-with-no-waste-of-ingredients) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1253 | [重构 2 行二进制矩阵](../../problems/reconstruct-a-2-row-binary-matrix) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1247 | [交换字符使得字符串相同](../../problems/minimum-swaps-to-make-strings-equal) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1231 | [分享巧克力](../../problems/divide-chocolate) 🔒 | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 1221 | [分割平衡字符串](../../problems/split-a-string-in-balanced-strings) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1217 | [玩筹码](../../problems/play-with-chips) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1196 | [最多可以买到的苹果数量](../../problems/how-many-apples-can-you-put-into-the-basket) 🔒 | [[贪心算法](../greedy/README.md)]  | Easy |
+| 1167 | [连接棒材的最低费用](../../problems/minimum-cost-to-connect-sticks) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1111 | [有效括号的嵌套深度](../../problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1094 | [拼车](../../problems/car-pooling) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1090 | [受标签影响的最大值](../../problems/largest-values-from-labels) | [[贪心算法](../greedy/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1058 | [最小化舍入误差以满足目标](../../problems/minimize-rounding-error-to-meet-target) 🔒 | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1057 | [校园自行车分配](../../problems/campus-bikes) 🔒 | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
+| 1055 | [形成字符串的最短路径](../../problems/shortest-way-to-form-string) 🔒 | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1053 | [交换一次的先前排列](../../problems/previous-permutation-with-one-swap) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1046 | [最后一块石头的重量](../../problems/last-stone-weight) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Easy |
+| 1029 | [两地调度](../../problems/two-city-scheduling) | [[贪心算法](../greedy/README.md)]  | Easy |
+| 1007 | [行相等的最少多米诺旋转](../../problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1005 | [K 次取反后最大化的数组和](../../problems/maximize-sum-of-array-after-k-negations) | [[贪心算法](../greedy/README.md)]  | Easy |
+| 995 | [K 连续位的最小翻转次数](../../problems/minimum-number-of-k-consecutive-bit-flips) | [[贪心算法](../greedy/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
+| 991 | [坏了的计算器](../../problems/broken-calculator) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
+| 984 | [不含 AAA 或 BBB 的字符串](../../problems/string-without-aaa-or-bbb) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 955 | [删列造序 II](../../problems/delete-columns-to-make-sorted-ii) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 948 | [令牌放置](../../problems/bag-of-tokens) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 944 | [删列造序](../../problems/delete-columns-to-make-sorted) | [[贪心算法](../greedy/README.md)]  | Easy |
+| 936 | [戳印序列](../../problems/stamping-the-sequence) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 927 | [三等分](../../problems/three-equal-parts) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 921 | [使括号有效的最少添加](../../problems/minimum-add-to-make-parentheses-valid) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
+| 910 | [最小差值 II](../../problems/smallest-range-ii) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
+| 881 | [救生艇](../../problems/boats-to-save-people) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 874 | [模拟行走机器人](../../problems/walking-robot-simulation) | [[贪心算法](../greedy/README.md)]  | Easy |
+| 870 | [优势洗牌](../../problems/advantage-shuffle) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 861 | [翻转矩阵后的得分](../../problems/score-after-flipping-matrix) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 860 | [柠檬水找零](../../problems/lemonade-change) | [[贪心算法](../greedy/README.md)]  | Easy |
+| 842 | [将数组拆分成斐波那契序列](../../problems/split-array-into-fibonacci-sequence) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 767 | [重构字符串](../../problems/reorganize-string) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 765 | [情侣牵手](../../problems/couples-holding-hands) | [[贪心算法](../greedy/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
+| 763 | [划分字母区间](../../problems/partition-labels) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 759 | [员工空闲时间](../../problems/employee-free-time) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
+| 757 | [ 设置交集大小至少为2](../../problems/set-intersection-size-at-least-two) | [[贪心算法](../greedy/README.md)]  | Hard |
+| 738 | [单调递增的数字](../../problems/monotone-increasing-digits) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 714 | [买卖股票的最佳时机含手续费](../../problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 659 | [分割数组为连续子序列](../../problems/split-array-into-consecutive-subsequences) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
+| 651 | [4键键盘](../../problems/4-keys-keyboard) 🔒 | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 649 | [Dota2 参议院](../../problems/dota2-senate) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 630 | [课程表 III](../../problems/course-schedule-iii) | [[贪心算法](../greedy/README.md)]  | Hard |
+| 621 | [任务调度器](../../problems/task-scheduler) | [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)]  | Medium |
+| 502 | [IPO](../../problems/ipo) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
+| 484 | [寻找排列](../../problems/find-permutation) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
+| 455 | [分发饼干](../../problems/assign-cookies) | [[贪心算法](../greedy/README.md)]  | Easy |
+| 452 | [用最少数量的箭引爆气球](../../problems/minimum-number-of-arrows-to-burst-balloons) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 435 | [无重叠区间](../../problems/non-overlapping-intervals) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 406 | [根据身高重建队列](../../problems/queue-reconstruction-by-height) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 402 | [移掉K位数字](../../problems/remove-k-digits) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
+| 392 | [判断子序列](../../problems/is-subsequence) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 376 | [摆动序列](../../problems/wiggle-subsequence) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 358 | [K 距离间隔重排字符串](../../problems/rearrange-string-k-distance-apart) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
+| 330 | [按要求补齐数组](../../problems/patching-array) | [[贪心算法](../greedy/README.md)]  | Hard |
+| 321 | [拼接最大数](../../problems/create-maximum-number) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 316 | [去除重复字母](../../problems/remove-duplicate-letters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
+| 253 | [会议室 II](../../problems/meeting-rooms-ii) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
+| 135 | [分发糖果](../../problems/candy) | [[贪心算法](../greedy/README.md)]  | Hard |
+| 134 | [加油站](../../problems/gas-station) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 122 | [买卖股票的最佳时机 II](../../problems/best-time-to-buy-and-sell-stock-ii) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
+| 55 | [跳跃游戏](../../problems/jump-game) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 45 | [跳跃游戏 II](../../problems/jump-game-ii) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Hard |
+| 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |

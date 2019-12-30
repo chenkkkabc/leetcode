@@ -5,11 +5,11 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/traffic-light-controlled-intersection "Traffic Light Controlled Intersection")
+[< Previous](../traffic-light-controlled-intersection "Traffic Light Controlled Intersection")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subtract-the-product-and-sum-of-digits-of-an-integer "Subtract the Product and Sum of Digits of an Integer")
+[Next >](../subtract-the-product-and-sum-of-digits-of-an-integer "Subtract the Product and Sum of Digits of an Integer")
 
-## [1280. Students and Examinations (Easy)](https://leetcode.com/problems/students-and-examinations "")
+## [1280. Students and Examinations (Easy)](https://leetcode.com/problems/students-and-examinations "学生们参加各科测试的次数")
 
 <p>Table: <code>Students</code></p>
 <pre>
